@@ -13,7 +13,7 @@ Why Chroma:
 - Persists embeddings to disk for repeatable local demos.
 - Has a maintained LangChain integration through `langchain-chroma`.
 
-The default persistent store path is `vector_db/chroma`.
+The default persistent store path is an OS temp directory, for example `/tmp/msme_policy_qna/vector_db/chroma` on Streamlit Cloud. Override it with `CHROMA_PERSIST_DIR` if you want a fixed local path such as `vector_db/chroma`.
 
 References:
 
@@ -90,6 +90,8 @@ The Streamlit app is public-deployment oriented: it asks each user for their own
 The sidebar also links to the source PDF used by the POC: https://www.dcmsme.gov.in/schemes/New-Guidelines.pdf
 
 For Streamlit Community Cloud, select Python 3.12 in the app's Advanced settings. Chroma is pinned in `requirements.txt` to the pre-1.x local persistent client line for this POC.
+
+The app builds Chroma at startup if the collection is empty. The generated vector DB should not be committed to GitHub.
 
 ## Evaluate the POC Question Set
 

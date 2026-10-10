@@ -10,7 +10,17 @@ from .config import CHUNKS_PATH, COLLECTION_NAME, VECTOR_DB_DIR
 from .embeddings import get_embeddings
 
 
+def _clear_chroma_client_cache() -> None:
+    try:
+        from chromadb.api.client import SharedSystemClient
+
+        SharedSystemClient.clear_system_cache()
+    except Exception:
+        pass
+
+
 def get_vector_store(persist_directory: Path = VECTOR_DB_DIR) -> Chroma:
+    persist_directory.mkdir(parents=True, exist_ok=True)
     return Chroma(
         collection_name=COLLECTION_NAME,
         embedding_function=get_embeddings(),
@@ -53,8 +63,9 @@ def ensure_vector_store(
         vector_store = get_vector_store(persist_directory)
         has_documents = bool(vector_store.get(include=[], limit=1).get("ids"))
     except Exception:
+        _clear_chroma_client_cache()
         if persist_directory.exists():
-            shutil.rmtree(persist_directory)
+            shutil.rmtree(persist_directory, ignore_errors=True)
         has_documents = False
         vector_store = get_vector_store(persist_directory)
 
