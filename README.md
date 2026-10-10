@@ -89,6 +89,8 @@ The Streamlit app is public-deployment oriented: it asks each user for their own
 
 The sidebar also links to the source PDF used by the POC: https://www.dcmsme.gov.in/schemes/New-Guidelines.pdf
 
+For Streamlit Community Cloud, select Python 3.12 in the app's Advanced settings. Chroma is pinned in `requirements.txt` to the pre-1.x local persistent client line for this POC.
+
 ## Evaluate the POC Question Set
 
 The starter evaluation set has 18 questions covering funding, eligibility, exceptions, procedures, timelines, monitoring, and unanswerable questions.

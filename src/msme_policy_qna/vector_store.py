@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import shutil
 from pathlib import Path
 
 from langchain_chroma import Chroma
@@ -37,16 +38,27 @@ def build_vector_store(
 
 
 def vector_store_has_documents(persist_directory: Path = VECTOR_DB_DIR) -> bool:
-    vector_store = get_vector_store(persist_directory)
-    return bool(vector_store.get(include=[], limit=1).get("ids"))
+    try:
+        vector_store = get_vector_store(persist_directory)
+        return bool(vector_store.get(include=[], limit=1).get("ids"))
+    except Exception:
+        return False
 
 
 def ensure_vector_store(
     chunks_path: Path = CHUNKS_PATH,
     persist_directory: Path = VECTOR_DB_DIR,
 ) -> Chroma:
-    vector_store = get_vector_store(persist_directory)
-    if not vector_store.get(include=[], limit=1).get("ids"):
+    try:
+        vector_store = get_vector_store(persist_directory)
+        has_documents = bool(vector_store.get(include=[], limit=1).get("ids"))
+    except Exception:
+        if persist_directory.exists():
+            shutil.rmtree(persist_directory)
+        has_documents = False
+        vector_store = get_vector_store(persist_directory)
+
+    if not has_documents:
         return build_vector_store(
             chunks_path=chunks_path,
             persist_directory=persist_directory,
