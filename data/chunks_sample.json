@@ -1,0 +1,3112 @@
+{
+  "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+  "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+  "source_files": {
+    "paragraphs": "artifacts\\knowledge_ingestion\\azure_doc_intelligence_v1\\rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207\\azure_paragraphs.json",
+    "tables": "artifacts\\knowledge_ingestion\\azure_doc_intelligence_v1\\rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207\\azure_tables.json"
+  },
+  "normalization_policy": {
+    "table_canonicalization": "Structured Azure table markdown is retained as canonical table text.",
+    "paragraph_overlap_policy": "Paragraphs whose spans overlap table cells are excluded from retrieval chunks.",
+    "removed_fields": [
+      "bounding_regions",
+      "spans"
+    ]
+  },
+  "counts": {
+    "input_paragraphs": 1830,
+    "input_tables": 55,
+    "excluded_overlapping_paragraphs": 1003,
+    "output_chunks": 133,
+    "paragraph_chunks": 78,
+    "table_chunks": 55
+  },
+  "chunks": [
+    {
+      "chunk_id": "chunk_0001_b36c34e5cb4e",
+      "source_type": "paragraph",
+      "role": null,
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": null,
+      "clause_number": null,
+      "page_numbers": [
+        1
+      ],
+      "paragraph_orders": [
+        1,
+        2
+      ],
+      "text": "No. 1(1247)/CDD/EFC/MSE-CDP/2021E Government of India Office of the Development Commissioner (MSME) Ministry of Micro, Small & Medium Enterprises Infrastructure and Common Facilities Division\nA-Wing, 7th Floor, Nirman Bhawan, Maulana Azad Road, New Delhi - 110108 Dated: 24.05.2022"
+    },
+    {
+      "chunk_id": "chunk_0002_e47d79f19923",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "OFFICE MEMORANDUM",
+      "clause_number": null,
+      "page_numbers": [
+        1
+      ],
+      "paragraph_orders": [
+        3,
+        4,
+        5
+      ],
+      "text": "OFFICE MEMORANDUM\nSubject: New Guidelines of Micro & Small Enterprises Cluster Development Programme (MSE-CDP).\nThe Government has approved revisions to the Guidelines of Micro and Small Enterprises Cluster Development Programme (MSE-CDP). The same are in supersession of the guidelines issued vide O.M. No. 1(834)/CDD/Guidelines/2018 dated 11th October 2019 for cluster development including subsequent clarifications / orders in these regards."
+    },
+    {
+      "chunk_id": "chunk_0003_44983e57d3dc",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "2. Objectives of the Scheme:",
+      "clause_number": "2",
+      "page_numbers": [
+        1,
+        2
+      ],
+      "paragraph_orders": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "text": "2. Objectives of the Scheme:\n(i) To enhance the sustainability, competitiveness and growth of MSEs by addressing common issues such as improvement of technology, skills & quality, market access, etc.\n(ii) To build capacity of MSEs and Startups for common supportive action through integration of self-help groups, consortia, district Industry associations, etc.\n(iii) To create / upgrade infrastructural facilities in the new / existing Industrial Areas / Clusters of MSEs.\n(iv) To set up Common Facility Centres in Industrial area (for testing, training centre, raw material depot, effluent treatment, complementing production processes).\n(v) Promotion of green & sustainable manufacturing technology for the clusters so as to enable units switch to sustainable and green production processes and products.\n3. Common Facility Centers (CFCs): The GoI grant will be restricted to 70% of the cost of project from Rs. 5.00 crore to Rs. 10.00 crore and 60% of the cost of project from Rs. 10.00 crore to Rs. 30.00 crore. In case of NE & Hill States, Island territories, Aspirational Districts, Gol grant will be 80% of the cost of project from Rs. 5.00 crore to Rs. 10.00 crore and 70% of the cost of project from Rs. 10.00 crore to Rs. 30.00 crore. The project for CFC with project cost more than Rs. 30.00 crore can also be considered but the GoI assistance would be calculated by taking into account the maximum eligible project cost of Rs.30.00 crore.\n4. Infrastructure Development: The GoI grant will be restricted to 60% of the cost of project from Rs. 5.00 crore to Rs. 15.00 crore for setting up of new Industrial Estate / Flatted Factory Complex and GoI grant will be 50% of the cost of project from Rs. 5.00 crore to Rs. 10.00 crore for up-gradation of existing Industrial Estate / Flatted Factory Complex. In case of NE & Hill States, Island territories, Aspirational Districts, GoI grant will be 70% of the cost of project from Rs. 5.00 crore to Rs. 15.00 crore for setting up of new Industrial Estate /\nSudha Keshare\nPage 1 of 5\nFlatted Factory Complex and 60% of the cost of project cost from Rs. 5.00 crore to Rs. 10.00 crore for up-gradation of existing Industrial Estate / Flatted Factory Complex. The project for ID with project cost more than Rs. 10.00 crore/15.00 crore can also be considered but the Gol assistance would be calculated by taking into account the maximum eligible project cost of Rs. 10.00 crore/15.00 crore."
+    },
+    {
+      "chunk_id": "chunk_0004_7dfaa48a9cd9",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "5. Implementing Agencies:",
+      "clause_number": "5",
+      "page_numbers": [
+        2
+      ],
+      "paragraph_orders": [
+        17
+      ],
+      "text": "5. Implementing Agencies:"
+    },
+    {
+      "chunk_id": "chunk_0005_e09ddb6fd63b",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "6. Steering Committees:",
+      "clause_number": "6",
+      "page_numbers": [
+        2,
+        3
+      ],
+      "paragraph_orders": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        48,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "text": "6. Steering Committees:\n(a) DPR should be appraised by any branch of SIDBI or any commercial bank. The techno economic feasibility report of the bank and DPR would be placed before the SLSC.\n(b) State Level Steering Committee (SLSC)\ni.) Each State Government is required to constitute a State Level Steering Committee under the Chairmanship of ACS / Principal Secretary / Secretary (Industries / MSME) and consisting of representatives of all stakeholders. The State Level Steering Committee would examine the DPRs, recommend and monitor implementation and operation of approved Projects in the State to ensure satisfactory and time-bound implementation of the activities and operations thereafter.\nii.) The State Level Steering Committee shall consist of the following:\nSudha Keshari\nPage 2 of 5\niii) The proposal once recommended by State Level Steering Committee, would be forwarded by concerned MSME-DI online with its recommendations before the same is considered in Office of DC, MSME. If the SLSC fails to recommend or reject a proposal within the stipulated time for recommendation as given at Annexure 6, the proposal will be treated as deemed recommended by the SLSC. However, on the request of the State Govt./MSME-DI, AS&DC (MSME) may allow relaxation in time not exceeding 3 months, for submission of recommendations of SLSC.\niv) SLSC may act as a single window for all the clearances required for the project. Director (Industries) may be nominated as the nodal officer for such clearances.\nv) There shall not be any In-principle approval of any project. Either a project would be approved or not approved.\nvi) The proposals for projects with no State Government funding support, may be directly submitted to O/o DC-MSME after due examination by MSME-DIs for final approval. However, recommendation of SLSC would be required & State may record about their no contribution to the project.\nvii) The project costing up to Rs. 5 crore will be considered under SFURTI.\nviii) Under the Infrastructure Development, link infrastructure connecting the private industrial estate to the main road can also be considered provided it is recommended by the State Level Screening Committee.\nix) For promoting rural industries in agro-processing, FPO will also be permitted under the scheme.\nx) In order to provide industrialization in rural areas, preference may be given for those projects which are located in gram panchayats or municipal areas, NER & aspirational district (as identified by NITI Aayog).\nxi) The CFC projects under \"one district-one product\" theme will also be given preference."
+    },
+    {
+      "chunk_id": "chunk_0006_3c03fcd8c82f",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "(c) National Project Approval Committee (NPAC)",
+      "clause_number": null,
+      "page_numbers": [
+        3
+      ],
+      "paragraph_orders": [
+        64,
+        65,
+        96,
+        97
+      ],
+      "text": "(c) National Project Approval Committee (NPAC)\nThe projects recommended by SLSC will be placed before NPAC for consideration and approval. The committee shall meet at least every two months. The composition is given below:\nSudha Yoshare\nPage 3 of 5"
+    },
+    {
+      "chunk_id": "chunk_0007_b5d0234385b6",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "7. Project Approval Procedure:",
+      "clause_number": "7",
+      "page_numbers": [
+        4
+      ],
+      "paragraph_orders": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "text": "7. Project Approval Procedure:\nThe following documents will be required for placing a proposal of Common Facility Center (CFC) for final approval of NPAC:\na. DPR\nb. Project Appraisal Report\nc. Registered land documents (if in vernacular language then English/Hindi translation)\nd. SPV registration as Section 8 Company (certificate of registration along with MoA and AoA)\ne. Geo Tagging\nf. SLSC recommendation along with minutes of meeting\ng. Statuary Compliances\nh. Certificate from State Government for compliance of GFR/CVC guidelines.\nThe following documents will be required for placing a proposal of Infrastructure Development (ID) Projects for final approval of NPAC:\nBudha Keshari\na. DPR\nb. Project Appraisal Report\nc. Land Documents (if in vernacular language then English/Hindi translation)\nd. Geo Tagging\ne. SLSC recommendation along with minutes of meeting\nf. Statuary Compliances\ng. Certificate from State Government for compliance of GFR/CVC guidelines."
+    },
+    {
+      "chunk_id": "chunk_0008_1d269df78644",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "8. Time Period for completion of the project:",
+      "clause_number": "8",
+      "page_numbers": [
+        4
+      ],
+      "paragraph_orders": [
+        130,
+        131
+      ],
+      "text": "8. Time Period for completion of the project:\nThe projects have to be completed within 18 months from the date of approval order of the project by NPAC."
+    },
+    {
+      "chunk_id": "chunk_0009_2bb0c0f97fc1",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "9. Monitoring and Evaluation:",
+      "clause_number": "9",
+      "page_numbers": [
+        4,
+        5,
+        6
+      ],
+      "paragraph_orders": [
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165
+      ],
+      "text": "9. Monitoring and Evaluation:\n(i) The existing digital portal of the scheme would be revamped to bring total digitisation of different stages of the journey of the project and information to be placed in public domain to enhance transparency. Photographs of the project would also be uploaded for view by the public. The portal should capture entire scheme workflow including application submission for MSE CDP proposals (both CFC and Infrastructure\nPage 4 of 5\nDevelopment), uploading of In-principle approvals by States, Application routing to desired Bank branch, uploading of sanction letter by Banks, final approval order by Ministry, marking of disbursement by Banks, etc. The portal should also be used to map all the clusters in the country.\n(ii) Geo-tagging of all CFC and Infrastructure Development projects will be mandatory.\n(iii)The timelines for the completion of various activities are given. MSME-DIs will closely monitor the progress of the projects in accordance with the prescribed timeline. Any delay should be taken up pro-actively with State Government / Implementing Agency under intimation to Office of DC(MSME).\n10. Guidelines of the Scheme: The New guidelines of MSE-CDP are available on the website of the Office of DC (MSME).\nBudha Keshari (Sudha Keshari)\nAdditional Development Commissioner\nCopy to:\n1. The Cabinet Secretariat, Rashtrapati Bhawan, New Delhi\n2. All Ministries / Departments of the Central Government\n3. CEO, NITI Aayog, New Delhi\n4. Chief Secretary (States / UTs)\n5. SS & FA, IF Wing, Ministry of MSME\n6. CCA, Udyog Bhawan, New Delhi\n7. Joint Secretary to Government of India, Ministry of MSME, Udyog Bhawan, New Delhi 8. CEO, KVIC\n9. Chairman, NSIC\n10. CMD, SIDBI\n11. Chairman, Coir Board\n12. All Directors, MSME-DIs / Director, MSME Testing Centres / All Branch MSME-DIs\n13. All Autonomous Bodies under DC, MSME\n14. Director General, NIMSME, Hyderabad\n15. Chairman / President, National Level Industry Associations\n16. Chairman / President, State Level Industry Associations\n17. PS to Hon'ble Minister, MSME\n18. PS to Hon'ble Minister of State, MSME\n19. PPS to Secretary (MSME)\n20. PPS to AS&DC (MSME)\nSudha Keshari (Sudha Keshari)\nAdditional Development Commissioner\nPage 5 of 5\nNo. 1(1247)/CDD/EFC/MSE-CDP/2021E Government of India Office of the Development Commissioner (MSME) Ministry of Micro, Small & Medium Enterprises Infrastructure and Common Facilities Division\nA-Wing, 7th Floor, Nirman Bhawan, Maulana Azad Road, New Delhi - 110108 Dated: 26th July 2022"
+    },
+    {
+      "chunk_id": "chunk_0010_5b8f70fee694",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "OFFICE MEMORANDUM",
+      "clause_number": null,
+      "page_numbers": [
+        6
+      ],
+      "paragraph_orders": [
+        166
+      ],
+      "text": "OFFICE MEMORANDUM"
+    },
+    {
+      "chunk_id": "chunk_0011_65e6b8324e60",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Subject: New Guidelines of Micro and Small Enterprises Cluster Development Programme (MSE-CDP).",
+      "clause_number": null,
+      "page_numbers": [
+        6,
+        7,
+        8
+      ],
+      "paragraph_orders": [
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265
+      ],
+      "text": "Subject: New Guidelines of Micro and Small Enterprises Cluster Development Programme (MSE-CDP).\nIn continuation to the Office Memorandum of even no. dated 24.05.2022, by which, new guidelines of Micro and Small Enterprises Cluster Development Programme (MSE-CDP) was issued, the following provisions are incorporated in the new guidelines of MSE-CDP:\nPara No. Provisions incorporated of the guidelines\n8.b\nA. Corrigendum\nPara 8.b, to be read as:\nThe funding pattern of projects located in the Aspirational Districts, NER, Hill States, Island territories, LWE affected districts and clusters with more than 50% (a) micro/ village or (b) women owned or (c) SC/ST owned units would be as follows-\nBuona Kanari\nअतिरिका मेळनस\na\nMinistry of 10% विकास आयुक्त\nOffice of the Dev. Commissioner (MSM) निर्माण भवन, नई दिल्ली-110108/Nirman Bhawan, New Delhi-110199\nInstead of:\nThe funding pattern of projects located in the Aspirational Districts, NER, Hill States and islands would be as follows:\nPage 1 of 2\nPara 11\nB. Addendum- Para 11.g\nNo single unit will hold more than 10 per cent in the equity capital (or equivalent capital contribution) of the SPV.\nThis issues with the approval of Competent Authority.\nkelbra Keshari सुधा केशरी/SUB अतिरिक्त विकास आयुक्त / Additional PSudha Keshari) भारत सरकार/ Govt. of india Additional Development Commissioner Ministry of Micro, Small & Medium Enterprises विकास आयुक्त (सू. ल. एवं म. उद्यम) का कार्यालय Office of the Dev. Commissioner (MSME) निर्माण भवन, नई दिल्ली-110108/Nirman Bhavran, New Delhi-110108\nCopy to:\n1. The Cabinet Secretariat, Rashtrapati Bhawan, New Delhi\n2. All Ministries / Departments of the Central Government\n3. CEO, NITI Aayog, New Delhi\n4. Chief Secretary (States / UTs)\n5. SS & FA, IF Wing, Ministry of MSME 6. CCA, Udyog Bhawan, New Delhi\n7. Joint Secretary to Government of India, Ministry of MSME, Udyog Bhawan, New Delhi 8. CEO, KVIC 9. Chairman, NSIC\n10. CMD, SIDBI\n11. Chairman, Coir Board\n12. All Directors, MSME-DIs / Director, MSME Testing Centres / All Branch MSME-DIs\n13. All Autonomous Bodies under DC, MSME\n14. Director General, NIMSME, Hyderabad\n15. Chairman / President, National Level Industry Associations\n16. Chairman / President, State Level Industry Associations\n17. PS to Hon'ble Minister, MSME\n18. PS to Hon'ble Minister of State, MSME\n19. PPS to Secretary (MSME)\n20. PPS to AS&DC (MSME)\nBudha Keshari (Sudha Keshari)\nHO OVO /SUDHA KESHARI Additional Development Commissioner\nभारत सरकार/ Govt. of india सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय Ministry of Micro, Small & Medium Ente page 2 of 2 विकास आयुक्त (सू. ल. एवं म. उद्यम) का कार्यालय Office of the Dev. Commissioner (MSME) निर्माण भवन, नई दिल्ली-110108/Nirman Bhawan, New Delhi-110108\nNew Guidelines - MSE-CDP"
+    },
+    {
+      "chunk_id": "chunk_0012_f65139b048d5",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "1. Historical Background",
+      "clause_number": "1",
+      "page_numbers": [
+        8
+      ],
+      "paragraph_orders": [
+        266,
+        267,
+        268
+      ],
+      "text": "1. Historical Background\na.) Cluster Development Programme is one of the oldest scheme of the Office of Development Commissioner in the Ministry of MSME. Earlier scheme was revised in 2007 and then the last revision in 2019.\nb.) In October 2007, the erstwhile Cluster Development scheme 'Small Industries Cluster Development Programme (SICDP)' was renamed as 'Micro and Small Enterprises - Cluster Development Programme (MSE-CDP)'. It was also decided that the 'Integrated Infrastructural Development (IID)' Scheme shall be subsumed in MSE-CDP for providing developed sites for new enterprises and upgradation of existing industrial infrastructure."
+    },
+    {
+      "chunk_id": "chunk_0013_155fa5ab9aa2",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "2. The Present Context",
+      "clause_number": "2",
+      "page_numbers": [
+        8
+      ],
+      "paragraph_orders": [
+        269,
+        270,
+        271,
+        272
+      ],
+      "text": "2. The Present Context\na.) Impact of COVID-19 pandemic on MSME-Sector and various initiatives of Govt. of India such as 'Atma Nirbhar Bharat Abhiyan', 'Vocal for local to Global' and 'Zero effect to Zero defect' to boost indigenous manufacturing and Industry has started a new interest in this scheme. Various consultations with MSME-DI, SPV and State Governments have suggested to bring simplification in the scheme guidelines so as to reduce layers of various processes and reduce the time required for approval of the projects and which can help in better execution. It has also necessitated a greater involvement of State governments in project identification, execution and monitoring its impact to the local industry especially micro enterprises.\nb.) Ministry of MSME has started Udyam registration process in which all enterprises are gradually supposed to on board the system of registration. The process is expected to help in easy identification of clusters based on common line of NIC codes and PIN codes which are available in the Udyam registration portal. Such use of data along with information made available by MSME DI and State Governments may help in the necessitated simplifications and extending coverage under the scheme. It would also enhance objectivity among various stakeholders.\nc.) There is also need to bring total digitisation of different stages and information to be placed in public domain to enhance transparency. The existing portal of the scheme would be revamped to bring the desired results."
+    },
+    {
+      "chunk_id": "chunk_0014_e1c0159f4127",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "3. Approach in Cluster Development",
+      "clause_number": "3",
+      "page_numbers": [
+        8,
+        9
+      ],
+      "paragraph_orders": [
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279
+      ],
+      "text": "3. Approach in Cluster Development\nMinistry of MSME intends to bring harmony and alignment among its two cluster schemes, Scheme of Fund for Regeneration of Traditional Industries (SFURTI) and Micro & Small Enterprises Cluster Development Programme (MSE-CDP) with each other. The objective is that all the enterprises operating within or near those clusters can become competitive vertically and horizontally and improve the competitiveness of clusters across sectors and regions of the country. Though the schemes target different segments from artisans, traditional enterprises, village enterprises, micro & small enterprises to medium manufacturing enterprises but the sole intention is to bring competitiveness and technology among enterprises, right skilling and linking the various efforts of Government of India. Currently, these are operating independent of each other. MSME-Technology Centres (TCs) may act as apex institutions for providing world class common facility services and skill development support to MSMEs. TCs can contribute effectively in technology needs of the cluster development in the country. This requires integration of the cluster schemes along with MSME-TCs to form a hierarchical pyramid.\nNew Guidelines MSE-CDP\nPage 1 of 44\nMSME- TCs\nMSE-CDP (up to Rs.30 cr)\nSFURTI (up to Rs.5 cr)"
+    },
+    {
+      "chunk_id": "chunk_0015_26d2ac5d9ec7",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "4. Revised Guidelines of MSE-CDP SCHEME",
+      "clause_number": "4",
+      "page_numbers": [
+        9
+      ],
+      "paragraph_orders": [
+        280,
+        281
+      ],
+      "text": "4. Revised Guidelines of MSE-CDP SCHEME\nThese revised guidelines of MSE-CDP are issued in supersession of the previous guidelines and encompasses, inter-alia, the procedure and funding pattern. This would be effective from the date of issuance of guidelines in prospective manner. Ministry may amend guidelines on need basis."
+    },
+    {
+      "chunk_id": "chunk_0016_c59eabbb826f",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "5. Objectives of the Scheme",
+      "clause_number": "5",
+      "page_numbers": [
+        9
+      ],
+      "paragraph_orders": [
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288
+      ],
+      "text": "5. Objectives of the Scheme\nThe scheme shall have the following objectives:\nI.) To enhance the sustainability, competitiveness and growth of MSEs by addressing common issues such as improvement of technology, skills & quality, market access, etc.\nII.) To build capacity of MSEs and Startups for common supportive action through integration of self-help groups, consortia, district Industry associations, etc.\nIII.) To create / upgrade infrastructural facilities in the new / existing Industrial Areas / Clusters of MSEs.\nIV.) To set up Common Facility Centres in Industrial area (for testing, training centre, raw material depot, effluent treatment, complementing production processes).\nV.) Promotion of green & sustainable manufacturing technology for the clusters so as to enable units switch to sustainable and green production processes and products."
+    },
+    {
+      "chunk_id": "chunk_0017_61acbd35a7a9",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "6. Characteristics of the Cluster",
+      "clause_number": "6",
+      "page_numbers": [
+        9
+      ],
+      "paragraph_orders": [
+        289,
+        290,
+        291,
+        292,
+        293
+      ],
+      "text": "6. Characteristics of the Cluster\na.) A cluster is a group of enterprises located within an identifiable and contiguous area (to a large extent) or a value chain that may go beyond a geographical area and producing same / similar products / complementary products/ services, which can be linked together by common physical infrastructure facilities. It must address their common challenges which is the core reason to take up the project under this scheme.\nb.) The essential characteristics of enterprises in a cluster are (a) Similarity or complementarity in the methods of production, quality control & testing, energy consumption, pollution control, etc., (b) Similar level of technology & marketing strategies / practices, (c) Similar channels for communication among the members of the cluster, (d) Common market & skill needs and/ or (e) Common challenges & opportunities that the cluster faces.\nNew Guidelines MSE-CDP\nPage 2 of 44"
+    },
+    {
+      "chunk_id": "chunk_0018_305fbee1d05e",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "7. Components of the Scheme and Funding pattern under the Scheme",
+      "clause_number": "7",
+      "page_numbers": [
+        10
+      ],
+      "paragraph_orders": [
+        294,
+        295,
+        296,
+        297
+      ],
+      "text": "7. Components of the Scheme and Funding pattern under the Scheme\nThere are only two components of the MSE-CDP scheme:\na.) Common Facility Centers (CFCs): This component consists of creation of tangible \"assets\" as Common Facility Centers (CFCs) in Industrial Estate. Items permissible may be referred at Annexure-1.\nb.) Infrastructure Development (ID): This component is for development of infrastructure in new/existing notified Industrial Estate. Items permissible are indicated at Annexure-2 ."
+    },
+    {
+      "chunk_id": "chunk_0019_53f701fface6",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "8. The funding pattern",
+      "clause_number": "8",
+      "page_numbers": [
+        10,
+        11
+      ],
+      "paragraph_orders": [
+        298,
+        299,
+        326,
+        327,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361
+      ],
+      "text": "8. The funding pattern\na.) The funding pattern of projects would be as follows:\nb.) The funding pattern of projects located in the Aspirational Districts, NER, Hill States and islands would be as follows:\nThere is inclusion of LWE affected districts and clusters with more than 50% (a) micro/ village or (b) women owned or (c) SC/ST owned units . Refer O.M. dated 26.07.22\nThe project for CFC with project cost more than Rs. 30 crore can also be considered but the GoI assistance would be calculated by taking into account the maximum eligible project cost of Rs.30 crore. Similarly, the project for ID with project cost more than Rs. 10 crore/15 crore can also be considered but the GoI assistance would be calculated by taking into account the maximum eligible project cost of Rs. 10 crore/15 crore.\nc.) Medium and Large mother manufacturing firms (whether in the public sector or private sector), Central or State Government Autonomous Bodies, other major buyers of products manufactured by MSEs in the cluster, commercial machinery suppliers, raw material suppliers and Business Development Service (BDS) providers will be eligible to contribute up to the provisioned State Govt's share as financial assistance. Further they may also be the part of SPV but there will be only one representative from them in SPV, their contribution to SPV\nNew Guidelines MSE-CDP\nPage 3 of 44\nmay not exceed 26% of the equity. However, the ownership of Plant and Machinery will be with State Government.\nd.) SPVs can contribute the provisioned State Govt. share, and such projects may then be implemented through MSME-DIs, NSIC, KVIC, Coir Board, Autonomous Bodies of Ministry viz. NI-MSME, MGIRI or Technology Centres.\ne.) SPV or firms as mentioned in para (d) above, should not take any grant from other schemes / GoI for this project.\nf.) The funding pattern for the projects approved by National Level Steering Committee as per the previous guidelines shall remain unchanged."
+    },
+    {
+      "chunk_id": "chunk_0020_b93ef8628125",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "9. Project Cost",
+      "clause_number": "9",
+      "page_numbers": [
+        11,
+        12
+      ],
+      "paragraph_orders": [
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375
+      ],
+      "text": "9. Project Cost\na.) Normally, projects costing less than Rs.5 crore would not be considered under this scheme. Such projects may be considered under SFRUTI as per the respective scheme guidelines. However, projects costing less than Rs.5 crore would be considered to promote rural industries addressing the issues relating to livelihood technological need and having impact in that sector at large. Projects of FPOs focusing on high quality domestic and export markets may also be considered in consultation with MoFPI / APEDA the funding pattern would be as indicated in para 8 (a) and (b) above.\nb.) Projects with cost higher than the ceiling limit indicated in the above table may also be considered under MSE-CDP. However, the GoI grant will be limited to the Project cost ceiling as above.\nc.) The Government of India will not give any grant for preparation of DPR. However, a sum equivalent to 4% of Project Cost not exceeding Rs.50.00 lakh (Rs. fifty lakh) will be considered as a contribution by the State Government or Special Purpose Vehicle (SPV) as the case may be, towards this purpose, including consultancy charge to Technical Institution etc. from conceptualization stage to operational handholding support under the Project, with the approval of State Level Steering Committee (SLSC).\nd.) The State Govt. can also use such amount (as mentioned in para 9.c above), for hiring of State PMU for the implementation and monitoring of MSE-CDP scheme in the State. The PMU shall be hired by State through a competitive bidding process.\ne.) Medium and Large mother manufacturing firms (whether in the public or private sector), Central or State Government Autonomous Bodies, other major buyers of products manufactured by MSEs in the cluster, commercial machinery suppliers, raw material suppliers and Business Development Service (BDS) providers contributing the provisioned State Govt. share in the project will be allowed to use a sum equivalent to 4% of Project Cost not exceeding Rs.50.00 lakh (fifty lakh) towards preparation of DPR, including consultancy charges to Technical Institution etc. from conceptualization stage to operational handholding support under the Project through the Implementing Agency and it will be considered as a contribution by them.\nf.) The cost of Project for Common Facility Centre (CFC) includes cost of Land (subject to maximum of 25% of Project Cost), building, pre-operative expenses, preliminary expenses, machinery & equipment, miscellaneous fixed assets, support infrastructure such as water supply, electricity and margin money for working capital. The maximum allowed contribution towards pre-operative & preliminary expenses shall be 2% of the total project cost whereas, the maximum allowed contribution towards margin money for working\nNew Guidelines MSE-CDP\nPage 4 of 44\ncapital shall be based on actual, but less than 25% of working capital requirements for 1st Year.\ng.) The State Government / Industrial Park Developments Agency / Corporation may submit Detailed Project Report (DPR) along with land details of the projects to concerned MSME- Development Institutes for first hand analysis of the project.\nh.) The CFC should be housed in Land/ Building owned by the SPV (acquired through contribution of the members). CFC can be set up in leased premises. However, the lease should be legally tenable and for a fairly long duration but not less than 15 years. In case CFC is established on leased land, the Lease Period should not be less than 25 years. The Land/Building ownership/lease related documents including non-agricultural conversion if applicable must be submitted along with DPR.\ni.) Long Term Lease could be selectively allowed if the property (CFC) is on land owned by an Industry Association or any other Institutional land. In any case lease shall not be allowed for any property owned by members or their family members.\nj.) For ID projects, the land should be in the name of State Govt./State Implementing Agency (IA) with Clear Title and complying with zoning regulations and non-agricultural conversion etc."
+    },
+    {
+      "chunk_id": "chunk_0021_76041fd11010",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "10. Detailed Project Report (DPR",
+      "clause_number": "10",
+      "page_numbers": [
+        12
+      ],
+      "paragraph_orders": [
+        376,
+        377,
+        378,
+        379,
+        380,
+        381
+      ],
+      "text": "10. Detailed Project Report (DPR\na.) It would be the responsibility of the SPV or State Government to prepare a DPR. The DPR should clearly establish how the CFC will improve the competitiveness of the MSE units in the cluster and should be aligned with their common aspirations of the enterprises. This should be clearly established in the DPR through a credible market study/ survey, which can be done before the DPR stage or along with it.\nb.) DPR can be prepared by SPV or any qualified agency as decided by the State Govt. or Agencies empanelled in any scheme of the Ministry of MSME would be eligible to prepare the DPR under this scheme also.\nc.) There should be sufficient awareness (at the time of DPR formulation and feasibility study) for the proposed CFC in the local cluster.\nd.) Copy of DPR should be submitted simultaneously at State Level Screening Committee and MSME-DIs, so as to avoid time in processing;\ne.) A suggestive format for DPR is indicated in the annexure of these guidelines. The DPR should also provide following details of the member MSEs"
+    },
+    {
+      "chunk_id": "chunk_0022_a4809b75a336",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "11. SPV and measures to ensure long term commitment of the members",
+      "clause_number": "11",
+      "page_numbers": [
+        12,
+        13
+      ],
+      "paragraph_orders": [
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403
+      ],
+      "text": "11. SPV and measures to ensure long term commitment of the members\na.) There shall be a SPV for the projects for CFC, which would be a Company registered under Section 8 of the Company Act except for the State of Sikkim. For Sikkim, SPV can be a Society registered under the Societies Registration Act, or a Co-operative Society under an appropriate statute. Farmer Producer Organisation (FPO)/ Farmer Producer\nNew Guidelines MSE-CDP\nPage 5 of 44\nCompany (FPC) registered under Section 8 of the Company Act with minimum number of MSEs as their member as provisioned in the guidelines of the Scheme shall also be allowed as the SPV.\nb.) The SPV may take efforts to increase the number of members (shareholders) to ensure that CFC is a collective initiative and is able to meet the aspirations of a higher number of units:\ni. Minimum 20 MSEs/Startups/Green Field MSEs/FPOs for CFC with project cost of above Rs 10 crore and above\nii. Minimum 10 MSEs/Startups/Green Field MSEs/FPOs for CFCs with project cost of below Rs 10 crore\nc.) The minimum contribution from members should be brought in the SPV by way of equity capital in order to bring more sense of ownership, which would have direct bearing on the higher success of the CFCs. Any contribution higher than the minimum contribution could be by way of unsecured interest free loans.\nd.) Minimum members direct contribution for the project could be:\nThere is inclusion of point g.) that \"No single unit will hold more than 10 per cent in the equity capital (or e.) equivalent capital contribution) of the SPV\". Refer O.M. dated 26.07.22.\ni. 10% of the project cost for CFCs with project cost less than Rs 10 crore (could be 5% for NER).\nii. 20% of the project cost for CFCs with project cost more than Rs 10 crore (15% for NER).\nRegistered Industry Associations having more than 500 MSE members, could be allowed to become members or sponsors for the CFC/ SPVs. However, the Associations should directly not hold more than 26% in the SPV and they will also have to ensure the minimum number of direct member contributions as mentioned above.\nf.) This will indirectly encourage SPVs to work for larger number of members."
+    },
+    {
+      "chunk_id": "chunk_0023_2a96e2d605e3",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "12. Ensuring committed leadership and professional Management of the project",
+      "clause_number": "12",
+      "page_numbers": [
+        13,
+        14
+      ],
+      "paragraph_orders": [
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413
+      ],
+      "text": "12. Ensuring committed leadership and professional Management of the project\na.) It is expected that SPV should have efficiencies of a private management set up. The Board of SPV should have member directors all of whom are in the industry related to the CFC. One member should be a professional from a Management Institute or an experienced professional. Industry Association can have not more than one member on the Board. The Board structure should be provided at the time of DPR.\nb.) A proper plan for running the day to day operations of the CFC should be made by the Leadership Team. One full time head of operations should be identified and hired before disbursement.\nc.) The SPV would be subject to performance and financial audit.\nd.) The SPV should have formal engagement with a reputed Technical Institution/ Management Institution/ Research Institution, Technology Centre, etc. while formulating the CFC vision and plan and preferably during operations period also.\ne.) The SPV should preferably have Industry linkage with large buyers and demand aggregators.\nNew Guidelines MSE-CDP\nPage 6 of 44\nf.) Consultants, service providers and suppliers should not be related to the SPV in terms of ownership or management and may not provide loans to SPV or members of SPV for carrying out the project. It is to ensure probity in project management and effective utilization of resources.\ng.) The above parameters are key criterion for approval of the project."
+    },
+    {
+      "chunk_id": "chunk_0024_97bc3d24e85b",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "13. Credit linkages for the projects",
+      "clause_number": "13",
+      "page_numbers": [
+        14
+      ],
+      "paragraph_orders": [
+        414,
+        415,
+        416,
+        417,
+        418,
+        419
+      ],
+      "text": "13. Credit linkages for the projects\na.) Preference would be given to projects which have bank loan component (at least 10% of the project cost). It would ensure deeper indulgence by all stakeholders.\nb.) Bank loan may be eligible for credit guarantee to SPV under the umbrella of CGTMSE. Such guarantee would be available to term loan as well as working capital to the SPV.\nc.) Public Sector banks, private banks as well as Co-operative banks would be eligible to get themselves registered with CGTMSE as per the standard guidelines.\nd.) The guarantee would also cover future upgradation, replacement of plant and machinery cost.\ne.) The guarantee scheme would also cover the working capital requirement for existing CFC which has been approved under earlier scheme of MSE-CDP."
+    },
+    {
+      "chunk_id": "chunk_0025_8ed286333a25",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "14. Approval Process",
+      "clause_number": "14",
+      "page_numbers": [
+        14,
+        15
+      ],
+      "paragraph_orders": [
+        420,
+        421,
+        422,
+        423,
+        424,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459
+      ],
+      "text": "14. Approval Process\n(a) DPR should be appraised by any branch of SIDBI or any commercial bank. The techno economic feasibility report of the bank and DPR would be placed before the SLSC.\n(b) State Level Steering Committee (SLSC)\ni.) Each State Government is required to constitute a State Level Steering Committee under the Chairmanship of ACS/ Principal Secretary / Secretary (Industries / MSME) and consisting of representatives of all stakeholders. The State Level Steering Committee would examine the DPRs, recommend and monitor implementation and operation of approved Projects in the State to ensure satisfactory and time-bound implementation of the activities and operations thereafter.\nii.) The State Level Steering Committee shall consist of the following:\nNew Guidelines MSE-CDP\nPage 7 of 44\niii) The proposal once recommended by State Level Steering Committee, would be forwarded by concerned MSME-DI online with its recommendations before the same is considered in Office of DC MSME. If the SLSC fails to recommend or reject a proposal within the stipulated time for recommendation as given at Annexure 6, the proposal will be treated as deemed recommended by the SLSC. However, on the request of the State Govt./MSME-DI, AS&DC (MSME) may allow relaxation in time not exceeding 3 months, for submission of recommendations of SLSC.\niv) SLSC may act as a single window for all the clearances required for the project. Director (Industries) may be nominated as the nodal officer for such clearances.\nv) There shall not be any In-principle approval of any project. Either a project would be approved or not approved.\nvi) The proposals for projects with no State Government funding support, may be directly submitted to O/o DC-MSME after due examination by MSME-DIs for final approval. However, recommendation of SLSC would be required & State may record about their no contribution to the project.\nvii) The project costing up to Rs. 5 crore will be considered under SFURTI.\nviii) Under the Infrastructure Development, link infrastructure connecting the private industrial estate to the main road can also be considered provided it is recommended by the State Level Screening Committee.\nix) For promoting rural industries in agro-processing, FPO will also be permitted under the scheme.\nx) In order to provide industrialization in rural areas, preference may be given for those projects which are located in gram panchayats or municipal areas, NER & aspirational district (as identified by NITI Aayog).\nxi) The CFC projects under \"one district-one product\" theme will also be given preference."
+    },
+    {
+      "chunk_id": "chunk_0026_b0bcab468636",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "(c) National Project Approval Committee (NPAC)",
+      "clause_number": null,
+      "page_numbers": [
+        15,
+        16
+      ],
+      "paragraph_orders": [
+        460,
+        461,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523
+      ],
+      "text": "(c) National Project Approval Committee (NPAC)\nThe projects recommended by SLSC will be placed before NPAC for consideration and approval. The committee shall meet at least every two months. The composition is given below:\nNew Guidelines MSE-CDP\nPage 8 of 44\ni) Time bound meetings will be help for time bound approval of proposals receipt under the Scheme and progress review of on-going projects.\nii) The following documents will be required for placing a CFC proposal for final approval of NPAC-\na. DPR - Performa at Annexure - 3\nb. Project Appraisal Report\nc. Registered land documents (if in vernacular language then English/Hindi translation)\nd. SPV registration as Section 8 Company (certificate of registration along with MoA and AoA)\ne. Geo Tagging\nf. SLSC recommendation along with minutes of meeting\ng. Statuary Compliances\nh. Certificate from State Government for compliance of GFR/CVC guidelines (Format at Annexure-5).\niii) The following documents will be required for placing an ID proposal for final approval of NPAC-\na. DPR\nb. Project Appraisal Report\nc. Land Documents (if in vernacular language then English/Hindi translation)\nd. Geo Tagging\ne. SLSC recommendation along with minutes of meeting\nf. Statuary Compliances\ng. Certificate from State Government for compliance of GFR/CVC guidelines (Format at Annexure-5)."
+    },
+    {
+      "chunk_id": "chunk_0027_2069d295bc16",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "15. . Implementing Agency and Fund (Gol Grant) Release",
+      "clause_number": "15",
+      "page_numbers": [
+        16,
+        17
+      ],
+      "paragraph_orders": [
+        524,
+        525,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544
+      ],
+      "text": "15. . Implementing Agency and Fund (Gol Grant) Release\nImplementing Agencies:\na.) Funds will be released to implementing agency in three installments in the ratio of 50:40:10 after final approval, depending upon the implementation plan, progress made, requirements of funds etc. The last installment will be on reimbursement basis.\nb.) The CFC projects with no State Govt. fund or land & Building support may be implemented by Institutions of Ministry of MSME.\nc.) MSME-DIs will not be fund receiving agency and in such cases funds will be handled by other Institutions of MoMSME as mentioned in Para 8 (e).\nNew Guidelines MSE-CDP\nPage 9 of 44\nd.) Funds will be released only after completion of building (not less than 80% as per the submitted building plan), upfront contribution by SPV, proportionate contribution by the State Govt. and upfront contribution by mother unit or other allowed contributors and finalization of Plant and Machinery through e-tendering as per GFR and CVC guidelines.\ne.) The funds will be released to the Project Specific Bank Account of IA in Public Sector Banks or any other bank as allowed by Ministry of Finance, Govt. of India. The interest accrued on GoI grant, in the Project specific Bank Account is to be returned back to GoI timely.\nf.) Implementing Agencies have to submit Utilization Certificates (UCs) for GoI grants timely before the release of next installment and final UC within 3 months of completion of projects.\ng.) A registered Tripartite Agreement among the GoI, the State Government concerned / Implementing Agency and the SPV shall be signed for CFC Projects. The format of the agreement is given at Annexure-4.\nh.) The projects implemented by the State Governments or State Implementing Agencies, the procurement of Plant and Machinery will be done through e-tendering (either through GeM or Centre Procurement Portal) as per GFR and CVC guidelines by a committee constituted by the State Government. Director/HoO MSME-DI, an expert organization for the sector related to the cluster and representative from SPV will be member of the committee. Other members may be decided by the State Govt. Procurement of plant & machinery will be responsibility of State Government. The ownership of plant & machinery shall be vested with the State Government.\ni.) In cases, where building construction cost is fully borne by SPV, the building may be constructed by SPV as per the building plan approved by the Competent Authority (local administration). The quality and valuation of total cost of building is to be certified by Chartered Civil Engineer / PWD / CPWD.\nj.) For the projects implemented by Institutions of Ministry of MSME, the procurement of Plant and Machinery will also done through e-tendering (either through GeM or Centre Procurement Portal) as per GFR and CVC guidelines by a committee constituted by Director/HoO MSME-DI. The Director/HoO MSME-DI will be chairman whereas representative from Fund Handling Agency, State MSME/Industry Department, Technology Centre (related to the product sector of the cluster), SPV and Academia will be member of the committee.\nk.) There could be projects where users of different services to be created under a project will be from different distant areas. The creation of local branches of the main CFC will better serve enterprises as transportation cost and time will be saved. Single SPV can manage all these projects. However, the total project cost as a whole, for considering of GoI Grant shall be of maximum Rs. 30 crore, even if the total project cost is more than Rs. 30 crore as per table at Para 8 (a) and (b). The maximum permissible branches under this arrangement shall be 4 (four)."
+    },
+    {
+      "chunk_id": "chunk_0028_1a07d3c6d037",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "16. Time Period for completion of the project",
+      "clause_number": "16",
+      "page_numbers": [
+        17,
+        18
+      ],
+      "paragraph_orders": [
+        545,
+        546,
+        547,
+        548,
+        549,
+        570
+      ],
+      "text": "16. Time Period for completion of the project\na.) The projects have to be completed within 18 months from the date of approval order of the project by NPAC.\nb.) Further time extension may be given as under:\nNew Guidelines MSE-CDP\nPage 10 of 44\nThe time extension after three years (Sl. No. 4) from the date of issuance of the final approval letter, however, may be subject to a reduction of GoI share upto 10%, which is to be borne by the SPV as an additional contribution, if delays are due to reasons attributable to SPV. The reason for delays attributable to the SPV and the quantum of reduction of GoI share will be recommended by a designated Committee of Officers."
+    },
+    {
+      "chunk_id": "chunk_0029_4fbac4fe9e59",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "17. Release of Funds",
+      "clause_number": "17",
+      "page_numbers": [
+        18,
+        19,
+        20
+      ],
+      "paragraph_orders": [
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592
+      ],
+      "text": "17. Release of Funds\n(A) Common Facility Centre (CFC)- Funds will be released to implementing agency in three installments in the ratio of 50:40:10 after final approval, depending upon the implementation plan, progress made, requirements of funds etc. GoI grant will be released only in Project Specific Account of IA.\n(i) Funds would be released in three installments to the Implementing Agency (State/UT Government Agency) on the basis of the physical progress, actual expenditure incurred and requirement of funds for the Project.\n(ii) Once the Plant & Machinery (P&M) are approved in NPAC of the MSE-CDP, the same would not be considered for changes, unless for higher version or adopting new technologies with due approval of NPAC.\n(iii) Any escalation in the cost of Project above the sanctioned amount, due to any reason will be borne by the SPV/ State Government.\n(iv) Contribution by the SPV or the beneficiaries share should be upfront. However, State Government may release their complete share either in one go or proportionately in the ratio of 50:40:10 and the same should be released prior to request for release of GoI grant is made by IA.\n(v) Necessary infrastructure like land, building, water and power supply, etc. must be in place or substantial progress should have been made in this regard before GoI assistance is requested.\n(vi) Where bank finance is involved, Loan Sanction letter of the bank concerned to release proportionate funds will also be necessary before release of GoI assistance. The bank loan or any other borrowings by SPV should not be more than 50% of the total SPV contribution in the project. SPV cannot hypothecate, mortgage land, building, plant & machinery or any other assets of the CFCs for bank loan or any other borrowings.\n(vii) State Government/IA would submit request for 1st installment of GoI grant (maximum 50%) along with Original Tripartite Agreement as per format at Annexure-4 (if not submitted earlier), State Government Order regarding Constitution of Purchase Committee, copy of minutes of Purchase Committee finalizing the tenders for procurement of Plant & Machinery, Certificate that Plant & Machinery are as per Final approval letter, proof of release of SPV contribution and State Government matching share, Joint Verification Report along with status of building and procurement of Plant & Machinery (signed by State\nNew Guidelines MSE-CDP\nPage 11 of 44\nGovernment/IA, SPV & MSME-DI), Pre-receipt & Undertaking in prescribed format (Annexure - 9), component-wise expenditure statement as per Final approval letter certified by CA and certificate from IA that all the term & conditions prescribed in appraisal report & final approval letter have been fulfilled.\n(vii) On utilization of 1st installment of Gol grant, State Government/IA would submit request for 2nd installment of Gol grant (maximum 40%) along with Utilization Certificate (UC) in respect of utilization of 1st installment of GoI grant as per GFR in prescribed format (Annexure -10), copy of minutes of Purchase Committee finalizing the tenders for procurement of Plant & Machinery, Certificate that Plant & Machinery are as per Final approval letter, proof of release / utilization of SPV contribution and State Government matching share, Joint Verification Report along with status of procurement of Plant & Machinery indicating utilization of 1 st installment of GoI grant (signed by State Government, IA, SPV & MSME-DI), Pre-receipt & Undertaking in prescribed format (Annexure - 9), component-wise expenditure statement as per Final approval letter certified by CA.\n(viii) On completion of project, State Government / IA would submit request for 3rd and Final installment of GoI grant (10%) on reimbursement basis, along with Completion Report in prescribed format (Annexure-7) duly signed by IA & SPV and countersigned by MSME-DI in original, Utilization Certificate (UC) in respect of utilization of previous installment of GoI grant in prescribed format (Annexure -10), proof of utilization of State Government complete contribution, Joint Verification Report along with status of installation of Plant & Machinery (signed by State Government/IA, SPV & MSME-DI), Certificate that Plant & Machinery are as per approval letter, details of interest accrued on GoI grant, Pre- receipt & Undertaking in prescribed format (Annexure - 9), component-wise expenditure statement certified by CA. Format for report from MSME-DI on completion of the project (Annexure - 11).\n(B) Infrastructure Development Projects- Funds will be released to implementing agency in three installments in the ratio of 50:40:10 after final approval, depending upon the implementation plan, progress made, requirements of funds etc.\n(i) Funds will be released on reimbursement basis or on matching share basis (Implementing Agency will deposit its share in the dedicated bank account in the name of Project and submit a bank certificate). 1st installment would be 50% of permissible GoI grant.\n(ii) State Government / IA would submit request for 1st installment of GoI grant along with proof of release of State Government matching share, Joint Verification Report (signed by State Government & MSME-DI), Pre-receipt & Undertaking in prescribed format (Annexure - 9), certificate by IA that all the conditions prescribed in appraisal report & final approval letter have been fulfilled.\n(iii) On utilization of 1st installment, State Government/IA would submit request for 2nd installment of Gol grant along with Utilization Certificate (UC) in respect of utilization of 1st installment of GoI grant as per GFR in prescribed format (Annexure -10), Physical & Financial Progress Report signed by IA countersigned by MSME DI, proof of release and utilization of State Government matching share, Joint Verification Report (signed by State Government & MSME-DI), Pre- receipt & Undertaking in prescribed format (Annexure - 9), component-wise expenditure statement as per final approval letter certified by CA.\n(iv) On completion of project, State Government/IA would submit request for 3rd & Final installment of GoI grant on reimbursement basis along with Completion Report in prescribed format (Annexure-8) duly signed by IA and countersigned by MSME-DI in original, Utilization Certificate (UC) in respect of utilization of\nNew Guidelines MSE-CDP\nPage 12 of 44\nprevious installment of GoI grant as per GFR in prescribed format (Annexure - 10), details of interest accrued on GoI grant, Joint Verification Report (signed by State Government & MSME-DI), Pre-receipt & Undertaking in prescribed format (Annexure - 9), component-wise expenditure statement certified by CA and certificate by IA that all the conditions prescribed in appraisal report & final approval letter have been fulfilled. Format for report from MSME-DI on completion of the project (Annexure - 11)."
+    },
+    {
+      "chunk_id": "chunk_0030_b9c2a325ec8d",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "18. Project Completion",
+      "clause_number": "18",
+      "page_numbers": [
+        20
+      ],
+      "paragraph_orders": [
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599
+      ],
+      "text": "18. Project Completion\nSPV/ IA has to submit through the system within two months after project completion the following:\n· Final Project Completion report including details on Outputs and Outcomes as indicated at para 19.g.\n· Photographs\n· Evidence of deliverables as indicated in the DPR\n· Receipts of payment for expenditure\n· Audited statement of accounts- final statement of income and expenditure"
+    },
+    {
+      "chunk_id": "chunk_0031_796b07617427",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "19. Monitoring and Evaluation of the Projects",
+      "clause_number": "19",
+      "page_numbers": [
+        20
+      ],
+      "paragraph_orders": [
+        600
+      ],
+      "text": "19. Monitoring and Evaluation of the Projects"
+    },
+    {
+      "chunk_id": "chunk_0032_f77bfff1e7c8",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "19.1 Monitoring of the Projects",
+      "clause_number": "19.1",
+      "page_numbers": [
+        20,
+        21
+      ],
+      "paragraph_orders": [
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610,
+        652
+      ],
+      "text": "19.1 Monitoring of the Projects\na.) The existing digital portal of the scheme would be revamped to bring total digitisation of different stages of the journey of the project and information to be placed in public domain to enhance transparency. Photographs of the project would also be uploaded for view by the public. The portal should capture entire scheme workflow including application submission for MSE CDP proposals (both CFC and Infrastructure Development), uploading of In-principle approvals by States, Application routing to desired Bank branch, uploading of sanction letter by Banks, final approval order by Ministry, marking of disbursement by Banks, etc. The portal should also be used to map all the clusters in the country.\nb.) Later, the portal may provide value added services to the cluster units including connecting them to VC/AIF funds associated with SIDBI in its growth and support (Startup Fund of Funds or any other fund) and linking with appropriate technology centres/ technology institutions.\nc.) Geo-tagging of all CFC and Infrastructure Development projects will be mandatory.\nd.) Request for change in the scope of the project or increase in the total amount in funding will not be entertained. Cost escalation of the project, if any, has to be borne by the SPV or State Government.\ne.) Prior approval is not required if deviation of expenditure of individual item is < 10 % of the approved budget. Similarly no approval is required in case of increase in own contribution and early completion of the project.\nf.) PMU may be set up in the office of AS&DC MSME for effective monitoring and it would strive for creating excellence in developing a proper ecosystem. The upper-cap for administrative charges shall, however, be limited to 3% of the total outlay approved.\ng.) New projects shall not be considered for a State if 25% (or more) projects approved in the past have been delayed by 24 months beyond the original period.\nNew Guidelines MSE-CDP\nPage 13 of 44\nh.) The timelines for the completion of various activities are given at Annexure - 6. MSME- DIs will closely monitor the progress of the projects in accordance with the prescribed timeline. Any delay should be taken up pro-actively with State Government / Implementing Agency under intimation to Office of DC(MSME)."
+    },
+    {
+      "chunk_id": "chunk_0033_91195a350362",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "19.2. Project Evaluation",
+      "clause_number": "19.2",
+      "page_numbers": [
+        21
+      ],
+      "paragraph_orders": [
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        659
+      ],
+      "text": "19.2. Project Evaluation\na.) SPV/ IA has to submit through the system every year after the completion of the project the following:\n· Annual report indicating its activity and the benefits accruing to the members\n· Evidence of benefits as indicated in the DPR\n· Receipts of income and its deployment\n· Audited statement of accounts- annual statement of income and expenditure\nb.) ) MSME-DI has to upload a report after visiting the project indicating its activity and guide it further for the growth of the project."
+    },
+    {
+      "chunk_id": "chunk_0034_1e424c4ddd1d",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "19.3. Third Party Evaluation of the project",
+      "clause_number": "19.3",
+      "page_numbers": [
+        21
+      ],
+      "paragraph_orders": [
+        660,
+        661,
+        662,
+        663
+      ],
+      "text": "19.3. Third Party Evaluation of the project\nOffice of DC, MSME would get the project evaluated by third party after three years of completion of the project.\nNew Guidelines MSE-CDP\nPage 14 of 44"
+    },
+    {
+      "chunk_id": "chunk_0035_a57ebd0137df",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "20. Contact person for the Scheme",
+      "clause_number": "20",
+      "page_numbers": [
+        22,
+        23
+      ],
+      "paragraph_orders": [
+        664,
+        665,
+        666,
+        667,
+        668
+      ],
+      "text": "20. Contact person for the Scheme\nThe Director, Cluster Development Division, Room No. 724, O/o DC (MSME) 7th Floor, Nirman Bhawan, New Delhi. Phone No. 011-23062230 Name of cluster portal - www.cluster.dcmsme.gov.in\nNew Guidelines MSE-CDP\nPage 15 of 44\nAnnexure-1"
+    },
+    {
+      "chunk_id": "chunk_0036_892af5faf986",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Admissible items under Setting up of Common Facility Centres (CFCs)",
+      "clause_number": null,
+      "page_numbers": [
+        23,
+        24
+      ],
+      "paragraph_orders": [
+        669,
+        670,
+        671,
+        672,
+        673,
+        674,
+        675,
+        676,
+        677,
+        678,
+        679,
+        680,
+        681,
+        682,
+        683,
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692,
+        693
+      ],
+      "text": "Admissible items under Setting up of Common Facility Centres (CFCs)\ni. Common Production / Processing Centre (for balancing/correcting / improving production line that cannot be undertaken by individual units).\nii. Common Recycling/Resource Recovery Plant.\niii. Industry 4.0 and its Learning Facilities, Additive Manufacturing Facilities, Digital Infrastructure.\niv. Design/Incubation Centres.\nV. Testing and Quality upgradation Facilities/Product Standards Development.\nvi. Packaging Facilities.\nvii. Training Centre / Skill Upgradation Facilities.\nviii. R&D Centres.\nix. Effluent Treatment Plant.\nX. For waste management, disposal and sustainable handling of biodegradable wastes in industrial areas, biogas / Bio-CNG projects will also be supported.\nxi. Common Logistics Centre.\nxii. Common Raw Material Bank.\nxiii. Plug & Play Facility.\nXIV. Common Renewable Energy Generation (Solar, Wind, Bio) and Energy Management equipments.\nXV. Safety and Disaster Risk Reduction equipments.\nXVI. Facilities relating to linkages Backward / Forward linkages for value addition in bi-product / waste of cluster units.\nxvii. Any common facilities which will improved competitiveness and productivity of the cluster units.\nxviii. Export Promotion Facilities for FPO such as for processing, storage (cold chains), Pack Houses, testing and packaging.\nXIX. Common Facilities for services sector such as automobile, tourism, hospitality, health & medical, farm, Dry cleaner, Testing Laboratories, repair and maintenance or any sector prioritize by Government of India / State Government.\nXX. CFC for Greenfield clusters for holistic developments of MSME sector.\nNote: Items may be added or deleted with the recommendation of NPAC and approval of Secretary MSME/Minister MSME.\nNew Guidelines MSE-CDP\nPage 16 of 44\nAnnexure-2"
+    },
+    {
+      "chunk_id": "chunk_0037_79ac5c88850f",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Admissible items under Infrastructure Development (ID) Projects",
+      "clause_number": null,
+      "page_numbers": [
+        24,
+        25
+      ],
+      "paragraph_orders": [
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        707,
+        708,
+        709,
+        710,
+        711,
+        712,
+        713,
+        714,
+        715
+      ],
+      "text": "Admissible items under Infrastructure Development (ID) Projects\ni. Boundary wall / fencing\nii. Laying roads\niii. Water supply including overhead tanks, and pump houses\niv. Water harvesting\nV. Drainage\nvi. Power (Sub-Station and distribution net-work work including Street light etc),\nvii. Others (Sanitary Conveniences etc.)\nviii. Flatted Factory Complex\nix. Common Effluent Treatment\nCommon Renewable Energy Generation (Solar, Wind, Bio)\nxi.\nX. Common Utilities System (Steam, Compressed Air/Gas, Cooling)\nxii. Raw Material Storage\nxiii. Common Water Recovery Plant\nxiv. Safety & Disaster Risk Reduction Cell\nXV. Latest Technological Backup Services in new industrial (multi-product) areas/estates or existing Industrial Areas/Estates/ Clusters.\nxvi. ID projects for Greenfield clusters for holistic developments of MSME sector.\nNote: Items may be added or deleted with the recommendation of NPAC and approval of Secretary MSME/Minister MSME.\nNew Guidelines MSE-CDP\nPage 17 of 44\nAnnexure-3"
+    },
+    {
+      "chunk_id": "chunk_0038_10324862ff7e",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Format of Detailed Proposal for CFC",
+      "clause_number": null,
+      "page_numbers": [
+        25
+      ],
+      "paragraph_orders": [
+        716
+      ],
+      "text": "Format of Detailed Proposal for CFC"
+    },
+    {
+      "chunk_id": "chunk_0039_4db476b43019",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "1. Proposal under consideration",
+      "clause_number": "1",
+      "page_numbers": [
+        25
+      ],
+      "paragraph_orders": [
+        717
+      ],
+      "text": "1. Proposal under consideration"
+    },
+    {
+      "chunk_id": "chunk_0040_292a9cbc7331",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "2. Brief particulars of the proposal",
+      "clause_number": "2",
+      "page_numbers": [
+        25
+      ],
+      "paragraph_orders": [
+        718
+      ],
+      "text": "2. Brief particulars of the proposal"
+    },
+    {
+      "chunk_id": "chunk_0041_f01e469bafdb",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "2.1. Introduction: brief about",
+      "clause_number": "2.1",
+      "page_numbers": [
+        25
+      ],
+      "paragraph_orders": [
+        725,
+        726,
+        727,
+        728,
+        729
+      ],
+      "text": "2.1. Introduction: brief about\n2.1.1. General scenario of industrial growth/ cluster development in the state\n2.1.2. Sector for which CFC is proposed to be set up\n2.1.3. Cluster and its products, future prospects of products, Competition scenario, Backward and forward linkages Basic data of cluster (Number of units, type of units [Micro/Small/Medium], employment [direct /indirect], turnover, exports, etc):\n2.1.4. How the proposed CFC is relevant to the growth of the concerned cluster/ sector"
+    },
+    {
+      "chunk_id": "chunk_0042_f65af4fe44c3",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "3. Information about SPV",
+      "clause_number": "3",
+      "page_numbers": [
+        25
+      ],
+      "paragraph_orders": [
+        730,
+        754,
+        755,
+        756,
+        757
+      ],
+      "text": "3. Information about SPV\n1\n2\nNew Guidelines MSE-CDP\nPage 18 of 44"
+    },
+    {
+      "chunk_id": "chunk_0043_89faa01c0f97",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "4. Details of Project Promoters /Sponsors",
+      "clause_number": "4",
+      "page_numbers": [
+        26,
+        27
+      ],
+      "paragraph_orders": [
+        772,
+        773,
+        774,
+        782,
+        783,
+        784,
+        785,
+        786,
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794
+      ],
+      "text": "4. Details of Project Promoters /Sponsors\n(i) Brief bio-data of Promoters\n(ii) The details of the promoters are as under :\n(i) Brief about Compliance with KYC guidelines\n(ii) ) Details of connected lending - Whether the directors / promoters of SPV are having any directorship on any bank etc.\n(iii) Adverse auditors remarks, if any - to be culled out from audit report, in case available. If SPV is new, it can be indicated as not applicable\n(iv) Particulars of previous assistance from financial institutions / banks - If SPV is new, it can be indicated as not applicable\n3\n4\n5\n.\nNew Guidelines MSE-CDP\nPage 19 of 44\n(v)Pending court cases initiated by other banks/FIs, if any - - If SPV is new, it can be indicated as not applicable\n(vi) Management Set-up\n(vii) To indicate details regarding who will be the main persons involved in running of CFC, its operations etc."
+    },
+    {
+      "chunk_id": "chunk_0044_beb51c80a4c1",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "5. Eligibility as per guidelines of MSE-CDP",
+      "clause_number": "5",
+      "page_numbers": [
+        27
+      ],
+      "paragraph_orders": [
+        795
+      ],
+      "text": "5. Eligibility as per guidelines of MSE-CDP"
+    },
+    {
+      "chunk_id": "chunk_0045_156c9e0c8152",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "6. Implementing Arrangements",
+      "clause_number": "6",
+      "page_numbers": [
+        27
+      ],
+      "paragraph_orders": [
+        817,
+        824,
+        825
+      ],
+      "text": "6. Implementing Arrangements\nNew Guidelines MSE-CDP\nPage 20 of 44"
+    },
+    {
+      "chunk_id": "chunk_0046_ef73ff215e11",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "7. Management and shareholding details:",
+      "clause_number": "7",
+      "page_numbers": [
+        28
+      ],
+      "paragraph_orders": [
+        832
+      ],
+      "text": "7. Management and shareholding details:"
+    },
+    {
+      "chunk_id": "chunk_0047_efe14a0180f1",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "8. Technical Aspects:",
+      "clause_number": "8",
+      "page_numbers": [
+        28
+      ],
+      "paragraph_orders": [
+        833,
+        834,
+        835,
+        836,
+        837,
+        838,
+        839,
+        840,
+        841,
+        842,
+        843,
+        844
+      ],
+      "text": "8. Technical Aspects:\n(i) Scope of the project (including components/ sections of CFC)\n(ii) Locational details and availability of infrastructural facilities\n(iii) Technology\n(iv) Provision for Industry 4.0 of AI and innovations if any\n(v) Raw materials / components\n(vi) Utilities\n(a) Power\n(b) Water\n(vii) Effluent disposal\n(viii) Manpower\nThe details of the manpower are as under:"
+    },
+    {
+      "chunk_id": "chunk_0048_f87ef9d872fc",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "9. Implementation Schedule:",
+      "clause_number": "9",
+      "page_numbers": [
+        28
+      ],
+      "paragraph_orders": [
+        854,
+        869,
+        870,
+        871,
+        872
+      ],
+      "text": "9. Implementation Schedule:\nNote: PERT Chart for all activities to be accomplished in accordance with activity-wise time line as prescribed in MSE-CDP guidelines will mandatory be a part of DPR.\n6 7\nNew Guidelines MSE-CDP\nPage 21 of 44"
+    },
+    {
+      "chunk_id": "chunk_0049_a9a1c1b3f94c",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "10. Project components:",
+      "clause_number": "10",
+      "page_numbers": [
+        29
+      ],
+      "paragraph_orders": [
+        873,
+        874,
+        887,
+        888,
+        889,
+        898,
+        899,
+        900,
+        901,
+        902,
+        903,
+        904,
+        905,
+        911,
+        912,
+        913,
+        914,
+        915,
+        916,
+        917,
+        918,
+        919,
+        920,
+        921,
+        922,
+        923
+      ],
+      "text": "10. Project components:\n(i) Estimated Project Cost (Rs. in lakh):\n(ii) Details of Land, Site Development and Building & Civil Work\n(iii) Plant & Machinery:\n(Rs. in lakh)\n(iv) Comments on Plant and Machineries from O/o DC, MSME:\n(v) Misc. fixed assets :selected:\n(vi) Preliminary expenses\n(vii) Pre-operative expenses\n(viii) Contingency Provisions:\n(ix) Margin money for Working Capital :selected:\n(x) Proposed Means of Financing: :selected:\n(Rs. in lakh)\n(xi) SPV contribution: :selected:\n(xii) Grant-in-aid from Govt. of India under MSE-CDP :selected:\n(xiii) Grant-in-aid from the State Government :selected:\n(xiv) Bank Loan/ others :selected:\n(xv) Arrangements for utilization of facilities10 by cluster units: :selected:\n11. Fund requirement / availability analysis: The details must be provided keeping in view that pace of the project is not suffered due to non-availability of funds in time.\n12. Usage Charges:\n13. Comments on Commercial viability:\n8\n9\n10\nNew Guidelines MSE-CDP\nPage 22 of 44"
+    },
+    {
+      "chunk_id": "chunk_0050_aa827b4a52e9",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "14. Financial Economic viability:",
+      "clause_number": "14",
+      "page_numbers": [
+        30
+      ],
+      "paragraph_orders": [
+        924,
+        925,
+        926,
+        960
+      ],
+      "text": "14. Financial Economic viability:\nAssumptions underlying the profitability estimates, projected cash flow statements and projected balance sheet are placed at Annexure and the summary of key parameters for the first 5 years are given below :-\n(Rs. in lakh)\nThe projected revenue of SPV is based upon the following major assumptions:"
+    },
+    {
+      "chunk_id": "chunk_0051_91ff39b8341b",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "15. Projected performance of the cluster after proposed intervention (in terms of production, domestic sales / exports and direct, indirect employment, etc.)",
+      "clause_number": "15",
+      "page_numbers": [
+        30
+      ],
+      "paragraph_orders": [
+        961
+      ],
+      "text": "15. Projected performance of the cluster after proposed intervention (in terms of production, domestic sales / exports and direct, indirect employment, etc.)"
+    },
+    {
+      "chunk_id": "chunk_0052_7d71a10f7c50",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "16. Status of Government approvals",
+      "clause_number": "16",
+      "page_numbers": [
+        30,
+        31
+      ],
+      "paragraph_orders": [
+        979,
+        980,
+        981,
+        982,
+        983
+      ],
+      "text": "16. Status of Government approvals\n(i) Pollution control\nNew Guidelines MSE-CDP\nPage 23 of 44\n(ii)Permission for land use (conversion for industrial purpose)"
+    },
+    {
+      "chunk_id": "chunk_0053_c91652b3b110",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "17. Favorable and Risk Factors of the project : SWOT Analysis",
+      "clause_number": "17",
+      "page_numbers": [
+        31
+      ],
+      "paragraph_orders": [
+        984
+      ],
+      "text": "17. Favorable and Risk Factors of the project : SWOT Analysis"
+    },
+    {
+      "chunk_id": "chunk_0054_c5babf3b2f45",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "18. Risk Mitigation Framework",
+      "clause_number": "18",
+      "page_numbers": [
+        31
+      ],
+      "paragraph_orders": [
+        985,
+        986,
+        987,
+        988
+      ],
+      "text": "18. Risk Mitigation Framework\nKey risks during the implementation and operations phase of the Project and the mitigations measures thereof could be as below:\nDuring implementation:\nDuring operations:"
+    },
+    {
+      "chunk_id": "chunk_0055_acb0bf9ac70b",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "19. Economics of the project",
+      "clause_number": "19",
+      "page_numbers": [
+        31
+      ],
+      "paragraph_orders": [
+        989,
+        990,
+        991,
+        992,
+        993,
+        994,
+        995,
+        996,
+        997,
+        998,
+        999,
+        1000,
+        1001
+      ],
+      "text": "19. Economics of the project\n(a) Debt Service coverage ratio (Projections for 10 years)\nDSCR = Net Profit + Interest(TL) + Depreciation\ninstallment(TL) + Interest(TL)\n(b) Balance sheet & P/L account (projection for 10 years)\n(c) BreakEvenPoint = FixedCost\nContribution(Sales -VariableCost)\n20. Commercial Viability: Following financial appraisal tools will be employed for assessing commercial viability of the Project:\n(i) Return on Capital Employed (ROCE): The total return generated by the project over its entire projected life will be averaged to find out the average yearly return. The simple acceptance rule for the investment is that the return (incorporating benefit of grant-in-aid assistance) is sufficiently larger than the interest on capital employed. Return in excess of 25% is desirable.\n(ii) Debt Service Coverage Ratio: Acceptance rule will be cumulative DSCR of 3:1 during repayment period.\n(iii) Break-Even (BE) Analysis: Break-even point should be below 60 per cent of the installed capacity.\n(iv) Sensitivity Analysis: Sensitivity analysis will be pursued for all the major financial parameters/indicators in terms of a 5-10 per cent drop in user charges or fall in capacity utilisation by 10-20 per cent.\n(v) Net Present Value (NPV): Net Present Value of the Project needs to be positive and the Internal Rate of return (IRR) should be above 10 per cent. The rate of discount to be adopted for estimation of NPV will be 10 per cent. The Project life may be considered to be a maximum of 10 years. The life of the Project to be considered for this purpose needs to be supported by recommendation of a technical expert/institution."
+    },
+    {
+      "chunk_id": "chunk_0056_c67292c12206",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "21. Conclusion",
+      "clause_number": "21",
+      "page_numbers": [
+        31,
+        32
+      ],
+      "paragraph_orders": [
+        1002,
+        1003,
+        1004,
+        1005
+      ],
+      "text": "21. Conclusion\nNew Guidelines MSE-CDP\nPage 24 of 44\nAnnexure-4"
+    },
+    {
+      "chunk_id": "chunk_0057_434d1b7f859f",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Format for Tripartite Agreement among Special Purpose Vehicle (SPV), State Government and Government of India under MSE-CDP",
+      "clause_number": null,
+      "page_numbers": [
+        32,
+        33,
+        34,
+        35
+      ],
+      "paragraph_orders": [
+        1006,
+        1007,
+        1008,
+        1009,
+        1010,
+        1011,
+        1012,
+        1013,
+        1014,
+        1015,
+        1016,
+        1017,
+        1018,
+        1019,
+        1020,
+        1021,
+        1022,
+        1023,
+        1024,
+        1025,
+        1026,
+        1027,
+        1028,
+        1029,
+        1030,
+        1031,
+        1032,
+        1033,
+        1034,
+        1035,
+        1036,
+        1037,
+        1038,
+        1039,
+        1040,
+        1041,
+        1042,
+        1043,
+        1044,
+        1045,
+        1046,
+        1047,
+        1048,
+        1049,
+        1050,
+        1051,
+        1052,
+        1053,
+        1054,
+        1055,
+        1056
+      ],
+      "text": "Format for Tripartite Agreement among Special Purpose Vehicle (SPV), State Government and Government of India under MSE-CDP\nThis agreement is made at ......... on this the ......... th day of ......... 20 .... between (1) the President of India, acting through and represented by Joint Development Commissioner /Director in the Office of the Development Commissioner (MSME), the Ministry of Micro, Small & Medium Enterprises (MSME), New Delhi / Director, MSME-DI, (hereinafter after referred to as the 'Gol'), (2) Governor/Lt. Governor of the State/Union Territory of acting through and represented by Secretary (Industries), State/UT Government of (hereinafter referred to as the 'GoS') and (3) Special Purpose Vehicle (SPV) having its registered Office at. represented by its Managing Director/Chief Executive Officer (hereinafter referred to as the 'SPV').\nWHEREAS the Gol has introduced a scheme named as \"Micro and Small Enterprises- Cluster Development Programme (MSE-CDP)\" with the objective of capacity building of micro and small enterprises (including small scale service and business entities) and their collectives in the country;\nAND WHEREAS the SPV has been created and constituted as a Section 8 company (as per Companies Act 2013), inter alia, to create, establish, run and maintain a Common Facility Centre at (the CFC) for the use and benefit of its members and of other units engaged or coming up in the same industry, trade or vocation in the (the Cluster);\nof\nAND WHEREAS the SPV has submitted a Project for approval of the GoI under the MSE-CDP; AND WHEREAS the GoI has approved the Project submitted by the SPV subject to the conditions mentioned in the sanction letter no ............... dated ............ (or to be issued) which shall be deemed to be a part of this Agreement and the GoS has also agreed to contribute towards the cost of establishment of the CFC;\nAND WHEREAS for binding the Parties to their respective obligations and to ensure long term use of the CFC by the enterprises in the Cluster, the Parties are desirous to enter into an agreement;\nNOW THIS AGREEMENT WITNESSETH AS FOLLOWS:\n1. The SPV shall set up the CFC at. on a piece of land to be provided by it free of all encumbrances and charges.\n2. The SPV shall contribute to the cost of establishment of the CFC from its resources to the extent and in the form as laid down in the Sanction Letter.\n3. The GoI and the GoS shall, on satisfactory proof of the contribution by the SPV, make their respective contributions towards the cost of establishment of the CFC, at such time, in such manner and to such extent as laid down in the Sanction Letter.\n4. The establishment of the CFC, including civil works, if any, shall be completed by the SPV within stipulated time period as per the Sanction Letter, or such extended time as the GoI may, on its satisfaction as to the reasons of delay, grant.\n5. The SPV shall be exclusively responsible for the day-to-day running of the CFC. The aim of running the CFC shall be to provide common services to the enterprises in the Cluster at affordable cost as well as to generate enough income to meet all its running expenditure,\nNew Guidelines MSE-CDP\nPage 25 of 44\ndepreciation and provision for replacement/expansion of capital assets. However, any shortfall or excess of income over expenses shall be kept or borne by the SPV only.\n6. The disbursement of funds by the GoI will be made only after the upfront contribution to be made by the SPV, the State Government or the beneficiaries.\n7. Further, the SPV/implementing agency will ensure that necessary infrastructure like provisioning of land and building including water and power supply for CFC is completed before they approach GoI for release of its share.\n8. Pending utilization of GoI grant, the funds will be parked in a separate dedicated account created for this purpose. Interest accrued, if any, on unutilized fund shall be adjusted against future disbursement under the scheme.\n9. GoI will reserve the right to carry out physical verification of the assets acquired with the funds or initiate any other enquiry as it may deem fit to satisfy the competent authority with regard to the proper utilization of the funds released.\n10. The SPV shall furnish utilization certificates for amounts released as grant-in-aid duly verified by the statutory auditors.\n11. The GoS will act as a facilitator to supervise and evaluate the progress of the Project separately. The GoS will also inform the GoI about the status of the establishment or running of CFC and shall also report to the GoI for any discrepancies in its management or otherwise.\n12. All plant, machinery, fixtures or equipment procured for the purpose of the CFC out of or with the support of the GoI or GoS grant shall be the exclusive property of the GoS / Ministry of MSME organization (to be decided by the Competent Authority), though in the custody and use of the SPV.\n13. The SPV shall, at its own cost, insure and keep insured all the plant, machinery, fixtures and equipment of the CFC for a minimum period of 10 years. In case of loss of or damage to such plant, machinery, fixtures and equipment, etc., the insurance monies shall be payable to the GoS.\n14. The SPV shall observe all the conditions and stipulations of the Sanction Letter.\n15. The management of the SPV and the operation of the CFC shall be in accordance with the GoI Guidelines dated which shall be deemed to be a part of this Agreement.\n16. The SPV shall keep all monies not immediately required in interest bearing deposits with any Scheduled Bank in India.\n17. In the event of any liquidation or bankruptcy proceedings or any threatened distress action against the SPV or any of its assets all plant, machinery, fixtures and equipment procured for the purpose of the CFC out of or with the support of the GoI or GoS grant shall be outside such proceedings and the GoI may assume the control and management of the SPV and appoint any of its officer or officer of the GoS or any semi-government or non-government body to run the CFC.\n18. The SPV represents and warrants:\nA. That it has been duly constituted under the law as applicable and has full authority to enter into this Agreement.\nB. That this agreement is binding upon it in all its provisions.\nC. That it shall work on mutual co-operation basis on sound managerial and business principles and no managerial changes shall be made which may adversely affect the smooth functioning of the CFC.\nD. That it shall keep all the plant, machinery, fixtures and equipment in good working order and shall undertake all preventive and remedial maintenance and upkeep and maintain insurance.\nE. That the plant, machinery, fixtures and equipment procured out of or with support of the GoI and GoS grant, is the property of GoS and the SPV shall not sell, hypothecate, mortgage, charge or create any encumbrances against the said plant, machinery, fixtures and equipment or any part of it in favour of any person, for any reason or transaction.\nF. That the SPV shall follow the directions of the GoI and GoS, as may be issued from time to time for better management of the SPV or the better running of the CFC.\nNew Guidelines MSE-CDP\nPage 26 of 44\nG. That the SPV acknowledges that the MSE-CDP provides for only one time grant towards capital cost of establishing the CFC and no subsidy/grant/assistance is envisaged for the recurring expenses or for replacement, renovation or expansion of the capital assets.\nH. In the event it is found that the SPV has not utilized the amount of grant, or any part of it, for the setting up of the CFC or has subsequently sold or otherwise disposed of any of the assets of the CFC acquired out of the grant, the GoI, without prejudice to any other rights, shall be entitled to recover the amount of loss as arrears of land revenue from the SPV and / or persons connected with its management jointly and severally.\n19. In case of any disputes or differences arising from, in relation to or in connection with this Agreement and not otherwise provided for in the succeeding clause, shall be settled by arbitration through reference to a sole arbitrator nominated by the Secretary, Department of Legal Affairs, Government of India, New Delhi (the Law Secretary). The provisions of the Arbitration and Conciliation Act, 1996 shall apply to the arbitration proceedings. Courts in Delhi shall have exclusive jurisdiction in all the matters.\n20. In case of violation of the stipulated conditions or non observance of the Sanction Letter or the GoI Guidelines by the SPV which is not cured within 15 days of issue of notice by the GoI, the GoI in consultation with the GoS, may, for such time as it may think proper, assume the management of the SPV or delegate the same to the GoS, or a semi-government or non-government body, to assure proper functioning of the CFC. The decision of GoI in this regard will be final. In such event the SPV shall have no claims for any investment made in the CFC or its management.\n21. The invalidity or unenforceability of any provision of this Agreement shall not affect the validity or enforceability of the remaining provisions, which shall remain in full force.\n22. Failure or delay on the part of GoI in insisting upon strict performance by the SPV or in taking action against the SPV, or grant of time or any other indulgence by the GoI, shall not be deemed to be waiver of any breach nor waiver on any occasion of breach shall be deemed to be a waiver for other occasions or other breaches.\n23. No amendment to this agreement shall be valid unless expressed in writing and duly signed by all the Parties.\n24. This agreement does not constitute any partnership of the GoI or the GoS with the SPV and the GoI and the GoS shall not be responsible for any act, omission, negligence, etc. of the SPV or its employees, agents or contractors or any injury suffered or claim made by any person in respect of the working of the CFC.\n1) Government of India, Represented by Shri\n2) State/UT Government, Represented by Shri\n3) Special Purpose Vehicle Represented by Shri ...\nNew Guidelines MSE-CDP\nPage 27 of 44\nAnnexure-5"
+    },
+    {
+      "chunk_id": "chunk_0058_e8746aef43b3",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "(From State Government on Letter Head)",
+      "clause_number": null,
+      "page_numbers": [
+        35
+      ],
+      "paragraph_orders": [
+        1057,
+        1058,
+        1059
+      ],
+      "text": "(From State Government on Letter Head)\nNo.\nDate:"
+    },
+    {
+      "chunk_id": "chunk_0059_94eee56b0b3d",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "CERTIFICATE",
+      "clause_number": null,
+      "page_numbers": [
+        35,
+        36
+      ],
+      "paragraph_orders": [
+        1060,
+        1061,
+        1062,
+        1063,
+        1064,
+        1065,
+        1066
+      ],
+      "text": "CERTIFICATE\nThis is to certify that Government of has and would adhere to the General Financial Rules (GFRs) / relevant guidelines issued by Central Vigilance Commission (CVC) while forwarding the proposal and implementing the project, i.e. setting up of under MSE-CDP.\nSignature:\nName & Designation: with Office Seal & Stamp\nNew Guidelines MSE-CDP\nPage 28 of 44\nAnnexure - 6"
+    },
+    {
+      "chunk_id": "chunk_0060_2256324e3bbf",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Timelines for approval and completion of Common Facility Centers (CFCs) /Infrastructure Development (ID) Projects.",
+      "clause_number": null,
+      "page_numbers": [
+        36
+      ],
+      "paragraph_orders": [
+        1067
+      ],
+      "text": "Timelines for approval and completion of Common Facility Centers (CFCs) /Infrastructure Development (ID) Projects."
+    },
+    {
+      "chunk_id": "chunk_0061_c82393a7ed85",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "A. For Examination & State level recommendation of proposals:",
+      "clause_number": "A",
+      "page_numbers": [
+        36,
+        37
+      ],
+      "paragraph_orders": [
+        1068,
+        1107,
+        1108,
+        1132
+      ],
+      "text": "A. For Examination & State level recommendation of proposals:\nNew Guidelines MSE-CDP\nPage 29 of 44\nNote: If the SLSC fails to recommend or reject a proposal within the stipulated time for recommendation, the proposal will be treated as deemed recommended by the SLSC."
+    },
+    {
+      "chunk_id": "chunk_0062_770fbbb660fc",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "B. Final Approval and Completion:",
+      "clause_number": "B",
+      "page_numbers": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ],
+      "paragraph_orders": [
+        1133,
+        1192,
+        1193,
+        1278,
+        1279,
+        1328,
+        1329,
+        1330,
+        1331,
+        1332,
+        1333,
+        1334,
+        1335,
+        1339,
+        1340,
+        1341,
+        1342,
+        1343,
+        1344,
+        1345,
+        1346,
+        1347,
+        1348
+      ],
+      "text": "B. Final Approval and Completion:\nNew Guidelines MSE-CDP\nPage 30 of 44\nNew Guidelines MSE-CDP\nPage 31 of 44\nNew Guidelines MSE-CDP\nPage 32 of 44\nAnnexure - 7\n(on letter head of Implementing Agency)\nRef No. Development Commissioner Office of DC (MSME) Nirman Bhawan New-Delhi-110108\nSubject : Completion certificate of setting up of the Common Facility Center (CFC) in <name of the cluster > under MSE-CDP.\nSir\nIt is certified that the Common Facility Center (CFC) in <name of cluster > at place State approved under MSE-CDP has been completed in all respects as detailed in Annexure-1 & handed over to the following SPV entirely on <date> for the day-to-day running of the CFC.\nSignatures by CEO/MD (SPV)\nSignatures by CEO/MD (Implementing Agency)\nSig. of Office-in-charge MSME-DI\nSig. of State Govt. Officer\nWith Stamp\n(Duly Stamped)\nEnclosed Annexure-7/A\nNew Guidelines MSE-CDP\nPage 33 of 44\n."
+    },
+    {
+      "chunk_id": "chunk_0063_d9fe8ecdf700",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Detailed Report",
+      "clause_number": null,
+      "page_numbers": [
+        41
+      ],
+      "paragraph_orders": [
+        1349,
+        1350,
+        1351,
+        1352,
+        1353,
+        1354,
+        1355,
+        1356,
+        1357,
+        1358,
+        1359,
+        1365,
+        1372,
+        1373,
+        1374,
+        1378,
+        1379,
+        1380,
+        1381,
+        1382,
+        1383
+      ],
+      "text": "Detailed Report\nName of the Cluster: Location:\nDistrict:\nState:\nApproved in the SCM:\nDated:\nTotal Project Cost\n,\nGol grant\n,\nState/SPV contribution\nDetails of GoI funds released\nActual Date of Completion of project/Date of trial run/ Operationalisation of facilities\nDate of Physical Joint Inspection (please enclose Joint Inspection report)\nTangible Benefits (as per Admn Approval / DPR)\nSig. of Office-in-charge SPV MSME-DI (Duly stamped)\nSig. of State Govt. Officer\nSig. of Implementing Agency Sig. of\n(Duly Stamped) (Duly Stamped) (Duly Stamped)\nNew Guidelines MSE-CDP\nPage 34 of 44"
+    },
+    {
+      "chunk_id": "chunk_0064_edc48c329a7b",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "II. Audited Component wise Expenditure Statement (in following format)",
+      "clause_number": null,
+      "page_numbers": [
+        42,
+        43
+      ],
+      "paragraph_orders": [
+        1384,
+        1385,
+        1409,
+        1410,
+        1411,
+        1412,
+        1421,
+        1422,
+        1423,
+        1424
+      ],
+      "text": "II. Audited Component wise Expenditure Statement (in following format)\n(Rs. in lakh)\nSignature\nName of Auditor\nCertificate/Membership number of I.C.A.\nIt is certified that CFC in Cluster, at has been completed in all respects & functioning satisfactorily and the targets fixed for the project have been fully achieved.\ni Utilization Certificate (format GFR-12 C) by Implementing Agency on letterhead of IA. The utilization certificate in respect of grants should also disclose whether the specified, quantified and qualitative targets that should have been reached against the amount utilized were in fact reached, and if not, the reasons there for. They should contain an output-based performance assessment instead of input- based performance assessment.\nNew Guidelines MSE-CDP\nPage 35 of 44\nAnnexure - 8"
+    },
+    {
+      "chunk_id": "chunk_0065_d396c2ebc493",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "(on letter head of Implementing Agency)",
+      "clause_number": null,
+      "page_numbers": [
+        43,
+        44,
+        45
+      ],
+      "paragraph_orders": [
+        1425,
+        1426,
+        1427,
+        1428,
+        1429,
+        1430,
+        1431,
+        1432,
+        1433,
+        1434,
+        1435,
+        1452,
+        1453,
+        1463,
+        1464,
+        1475,
+        1476,
+        1477,
+        1478,
+        1479,
+        1480,
+        1481,
+        1482,
+        1483,
+        1484
+      ],
+      "text": "(on letter head of Implementing Agency)\nRef No. Development Commissioner Office of DC (MSME) Nirman Bhawan New-Delhi-110108\nSubject : Completion report of the Infrastructure Development Project at <name of Industrial Estate under MSE-CDP\nSir\nIt is certified that Infrastructure Development Project at <name of Industrial Estate> approved under MSE-CDP has been completed in all respects as on <date>. The progress and expenditure details are enclosed.\nEnclosed as above:\nSignatures by CEO\nNew Guidelines MSE-CDP\nPage 36 of 44\nCompletion report for Infrastructure development Project at Estate) as on (date)\n(name of Industrial\n8.\nDetails of Plots\nB. Audited Component wise Expenditure Statement (in following format)\n(Rs. in lakh)\nSignature\nName of Auditor\nCertificate/member ship number of I.C.A\nSignature with duly stamped Implementing Agency\nSignature with duly stamped\nMSME-DI\ni Utilization Certificate (format GFR-12C) by Implementing Agency on letterhead of IA. The utilization certificate in respect of grants should also disclose whether the specified, quantified and qualitative targets that should have been reached against the amount utilized were in fact reached, and if not, the reasons there for. They should contain an output-based performance assessment instead of input- based performance assessment.\nNew Guidelines MSE-CDP\nPage 37 of 44\nDate:"
+    },
+    {
+      "chunk_id": "chunk_0066_7ae5527517a0",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Joint Verification Report",
+      "clause_number": null,
+      "page_numbers": [
+        45,
+        46
+      ],
+      "paragraph_orders": [
+        1485,
+        1486,
+        1487,
+        1504,
+        1511,
+        1512,
+        1513
+      ],
+      "text": "Joint Verification Report\nThis is to verify that has executed the work of New/upgradation of Infrastructural facilities under MSE-CDP Scheme at The work amounting to Rs. Lakh has been completed at site in all respects. The Physical Joint Inspection was carried out on The component wise details of the works executed at site are as follows :-\n(Rs. in lakh)\nIt is certified that ID project at has been completed satisfactorily and the targets fixed for the project have been fully achieved.\nNew Guidelines MSE-CDP\nPage 38 of 44\nAnnexure - 9"
+    },
+    {
+      "chunk_id": "chunk_0067_cd87d5860825",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Letter Head of Implementing Agency",
+      "clause_number": null,
+      "page_numbers": [
+        46
+      ],
+      "paragraph_orders": [
+        1514,
+        1515,
+        1516,
+        1517,
+        1518,
+        1519,
+        1520,
+        1521,
+        1522,
+        1523,
+        1524,
+        1525,
+        1526,
+        1527
+      ],
+      "text": "Letter Head of Implementing Agency\nNo.\nDate:\nPre-Receipt\nReceived\na sum of Rs. (Rs. only) as 1st/2nd/3rd instalment of grant-in-aid sanctioned by Office of DC(MSME), Ministry of MSME, New Delhi vide letter No.\ndated\nfor setting up of under the MSE-CDP Scheme.\n(Name of CFC) at (Name of Location)\n2. M/s (Name of IA) accept the conditions of grant without any reservation as laid down in the sanction letter referred to above.\nRevenue Stamp\nName & Signature/ Stamp of Implementing Agency\nNew Guidelines MSE-CDP\nPage 39 of 44"
+    },
+    {
+      "chunk_id": "chunk_0068_a51830f93436",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Letter Head of Implementing Agency",
+      "clause_number": null,
+      "page_numbers": [
+        47
+      ],
+      "paragraph_orders": [
+        1528,
+        1529,
+        1530
+      ],
+      "text": "Letter Head of Implementing Agency\nNo.\nDate:"
+    },
+    {
+      "chunk_id": "chunk_0069_745d5bde82f1",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "UNDERTAKING",
+      "clause_number": null,
+      "page_numbers": [
+        47
+      ],
+      "paragraph_orders": [
+        1531,
+        1532,
+        1565,
+        1566,
+        1567,
+        1568,
+        1569,
+        1570
+      ],
+      "text": "UNDERTAKING\nUndertaking for setting up of CFC sanctioned by Office of DC(MSME), Ministry of MSME, New Delhi vide letter No. dated .\nacceptable.\n2. M/s (Name of IA) also agree to be governed by the conditions of grant; for creation of capital assets for setting up (Name of CFC) at (Location) by (Name of SPV) =\n3. It is certified that no grants-in-aid for this purpose or activities have been applied for / would be applied for or obtained from any other Ministry or Department of the Government of India or State Government.\nName & Signature/ Stamp of Implementing Agnecy\nNew Guidelines MSE-CDP\nPage 40 of 44"
+    },
+    {
+      "chunk_id": "chunk_0070_7d87f4017c77",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Letter Head of Implementing Agency",
+      "clause_number": null,
+      "page_numbers": [
+        48
+      ],
+      "paragraph_orders": [
+        1571,
+        1572,
+        1573,
+        1574,
+        1575,
+        1576,
+        1577,
+        1578,
+        1579,
+        1580,
+        1581,
+        1582,
+        1583,
+        1584,
+        1585,
+        1586,
+        1587,
+        1588,
+        1589,
+        1590,
+        1591,
+        1592,
+        1593
+      ],
+      "text": "Letter Head of Implementing Agency\nNo.\nDate:\nPre-Receipt\nReceived\na\nsum\nof Rs.\n(Rs.\nonly) as 1st/2nd/3rd instalment of grant-in-aid sanctioned by Office of\nDC(MSME),\nMinistry\nof MSME, New Delhi vide letter\ndated (Name of No.\nfor setting up of\nunder the MSE-CDP Scheme. Industrial Estate) at (Name of Location)\n2. M/s\n(Name of IA)\naccept the conditions of grant without any reservation as laid down in the sanction letter referred to above.\nRevenue Stamp\nName & Signature/ Stamp of Implementing Agency\nNew Guidelines MSE-CDP\nPage 41 of 44"
+    },
+    {
+      "chunk_id": "chunk_0071_a6d84d4684c6",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Letter Head of Implementing Agency",
+      "clause_number": null,
+      "page_numbers": [
+        49
+      ],
+      "paragraph_orders": [
+        1594,
+        1595,
+        1596
+      ],
+      "text": "Letter Head of Implementing Agency\nNo.\nDate:"
+    },
+    {
+      "chunk_id": "chunk_0072_b6387eb96fba",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "UNDERTAKING",
+      "clause_number": null,
+      "page_numbers": [
+        49,
+        50
+      ],
+      "paragraph_orders": [
+        1597,
+        1638,
+        1639,
+        1640,
+        1641,
+        1642,
+        1643,
+        1644,
+        1645,
+        1646
+      ],
+      "text": "UNDERTAKING\n2. (Name of IA) also agree to be governed by the conditions of grant; for creation of capital assets for setting up (Name of Industrial Estate) at (Location)\n3. It is certified that no grants-in-aid for this purpose or activities have been applied for / would be applied for or obtained from any other Ministry or Department of the Government of India or State Government.\nName & Signature/ Stamp of Implementing Agency\nNew Guidelines MSE-CDP\nPage 42 of 44\nAnnexure - 10\nFORM GFR 12C\nGENERAL FINANCIAL RULES 2017 Ministry of Finance Department of Expenditure\n- à"
+    },
+    {
+      "chunk_id": "chunk_0073_48710730aa7c",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "GFR 12 - C [(See Rule 239)]",
+      "clause_number": null,
+      "page_numbers": [
+        50,
+        51
+      ],
+      "paragraph_orders": [
+        1647,
+        1648,
+        1655,
+        1656,
+        1657,
+        1658,
+        1659,
+        1660,
+        1661,
+        1662,
+        1663,
+        1664,
+        1665,
+        1666
+      ],
+      "text": "GFR 12 - C [(See Rule 239)]\nFORM UTILIZATION CERTIFICATE (FOR STATE GOVERNMENTS) (Where expenditure incurred by Govt. bodies only)\n2. Certified that I have satisfied myself that the conditions on which the grants-in-aid was sanctioned have been duly fulfilled/ are being fulfilled and that I have exercised the following checks to see that the money was actually utilized for the propose for which it was sanctioned.\nKinds of checks exercised\n1.\n2.\n3.\nSignature\nDesignation\nDate\nPS: The UC shall disclose separately the actual expenditure incurred and loans and advances given to suppliers of stores and assets, to construction agencies and like in accordance with scheme guidelines and in furtherance to the scheme objectives, which do not constitute expenditure at the stage. These shall be treated as utilized grants but allowed to be carried forward.\nNew Guidelines MSE-CDP\nPage 43 of 44\nAnnexure - 11"
+    },
+    {
+      "chunk_id": "chunk_0074_2a2ed867726d",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Format for report from MSME-DI on completion of the project",
+      "clause_number": null,
+      "page_numbers": [
+        51,
+        52
+      ],
+      "paragraph_orders": [
+        1667,
+        1677,
+        1678,
+        1679,
+        1680
+      ],
+      "text": "Format for report from MSME-DI on completion of the project\nNew Guidelines MSE-CDP\nPage 44 of 44\nNo. 1(1247)/CDD/EFC/MSE-CDP/2021E Government of India Office of the Development Commissioner (MSME) Ministry of Micro, Small & Medium Enterprises Infrastructure and Common Facilities Division\nA-Wing, 7th Floor, Nirman Bhawan, Maulana Azad Road, New Delhi - 110108 Dated: 26th July 2022"
+    },
+    {
+      "chunk_id": "chunk_0075_429bfa72b7a2",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "OFFICE MEMORANDUM",
+      "clause_number": null,
+      "page_numbers": [
+        52
+      ],
+      "paragraph_orders": [
+        1681
+      ],
+      "text": "OFFICE MEMORANDUM"
+    },
+    {
+      "chunk_id": "chunk_0076_96351e9b1a44",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Subject: New Guidelines of Micro and Small Enterprises Cluster Development Programme (MSE-CDP).",
+      "clause_number": null,
+      "page_numbers": [
+        52,
+        53,
+        54
+      ],
+      "paragraph_orders": [
+        1682,
+        1683,
+        1684,
+        1685,
+        1686,
+        1687,
+        1688,
+        1716,
+        1717,
+        1718,
+        1719,
+        1720,
+        1721,
+        1722,
+        1723,
+        1754,
+        1755,
+        1756,
+        1757,
+        1758,
+        1759,
+        1760,
+        1761,
+        1762,
+        1763,
+        1764,
+        1765,
+        1766,
+        1767,
+        1768,
+        1769,
+        1770,
+        1771,
+        1772,
+        1773,
+        1774,
+        1775,
+        1776,
+        1777,
+        1778,
+        1779,
+        1780,
+        1781
+      ],
+      "text": "Subject: New Guidelines of Micro and Small Enterprises Cluster Development Programme (MSE-CDP).\nIn continuation to the Office Memorandum of even no. dated 24.05.2022, by which, new guidelines of Micro and Small Enterprises Cluster Development Programme (MSE-CDP) was issued, the following provisions are incorporated in the new guidelines of MSE-CDP:\nPara No. Provisions incorporated of the guidelines\n8.b\nA. Corrigendum\nPara 8.b, to be read as:\nThe funding pattern of projects located in the Aspirational Districts, NER, Hill States, Island territories, LWE affected districts and clusters with more than 50% (a) micro/ village or (b) women owned or (c) SC/ST owned units would be as follows-\nBuona Kanari\nअतिरिका मेळनस\na\nMinistry of 10% विकास आयुक्त\nOffice of the Dev. Commissioner (MSM) निर्माण भवन, नई दिल्ली-110108/Nirman Bhawan, New Delhi-110199\nInstead of:\nThe funding pattern of projects located in the Aspirational Districts, NER, Hill States and islands would be as follows:\nPage 1 of 2\nPara 11\nB. Addendum- Para 11.g\nNo single unit will hold more than 10 per cent in the equity capital (or equivalent capital contribution) of the SPV.\nThis issues with the approval of Competent Authority.\nkelbra Keshari सुधा केशरी/SUB अतिरिक्त विकास आयुक्त / Additional PSudha Keshari) भारत सरकार/ Govt. of india Additional Development Commissioner Ministry of Micro, Small & Medium Enterprises विकास आयुक्त (सू. ल. एवं म. उद्यम) का कार्यालय Office of the Dev. Commissioner (MSME) निर्माण भवन, नई दिल्ली-110108/Nirman Bhavran, New Delhi-110108\nCopy to:\n1. The Cabinet Secretariat, Rashtrapati Bhawan, New Delhi\n2. All Ministries / Departments of the Central Government\n3. CEO, NITI Aayog, New Delhi\n4. Chief Secretary (States / UTs)\n5. SS & FA, IF Wing, Ministry of MSME 6. CCA, Udyog Bhawan, New Delhi\n7. Joint Secretary to Government of India, Ministry of MSME, Udyog Bhawan, New Delhi 8. CEO, KVIC 9. Chairman, NSIC\n10. CMD, SIDBI\n11. Chairman, Coir Board\n12. All Directors, MSME-DIs / Director, MSME Testing Centres / All Branch MSME-DIs\n13. All Autonomous Bodies under DC, MSME\n14. Director General, NIMSME, Hyderabad\n15. Chairman / President, National Level Industry Associations\n16. Chairman / President, State Level Industry Associations\n17. PS to Hon'ble Minister, MSME\n18. PS to Hon'ble Minister of State, MSME\n19. PPS to Secretary (MSME)\n20. PPS to AS&DC (MSME)\nBudha Keshari (Sudha Keshari)\nHO OVO /SUDHA KESHARI Additional Development Commissioner\nभारत सरकार/ Govt. of india सूक्ष्म, लघु एवं मध्यम उद्यम मंत्रालय Ministry of Micro, Small & Medium Ente page 2 of 2 विकास आयुक्त (सू. ल. एवं म. उद्यम) का कार्यालय Office of the Dev. Commissioner (MSME) निर्माण भवन, नई दिल्ली-110108/Nirman Bhawan, New Delhi-110108\nNo. 1(1247)/CDD/EFC/MSE-CDP/2021E (E-4020344) Government of India Office of the Development Commissioner (MSME) Ministry of Micro, Small & Medium Enterprises Infrastructure and Common Facilities Division\nA-Wing, 7th Floor, Nirman Bhawan, Maulana Azad Road, New Delhi - 110108 Dated: 26 September 2024"
+    },
+    {
+      "chunk_id": "chunk_0077_8772d51de6a0",
+      "source_type": "paragraph",
+      "role": "title",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "OFFICE MEMORANDUM",
+      "clause_number": null,
+      "page_numbers": [
+        54,
+        55,
+        56
+      ],
+      "paragraph_orders": [
+        1782,
+        1783,
+        1784,
+        1785,
+        1786,
+        1787,
+        1788,
+        1789,
+        1790,
+        1791,
+        1792,
+        1793,
+        1794,
+        1795,
+        1796,
+        1797,
+        1798,
+        1799,
+        1800,
+        1801,
+        1802,
+        1803,
+        1804,
+        1805,
+        1806,
+        1807,
+        1808,
+        1809,
+        1810,
+        1811
+      ],
+      "text": "OFFICE MEMORANDUM\nSubject: Regarding inclusion of Single Storied Factory Complexes under Infrastructure Development (ID) components of new Guidelines of MSE-CDP.\nWith reference to the matter raised during the 3rd NPAC meeting of MSE-CDP held on 05.03.2024 regarding inclusion of Single Storied Factory Complexes under Infrastructure Development (ID) components of new Guidelines of MSE-CDP.\n2. It is conveyed that Single Storied Factory Complexes are also included in addition to Flatted Factory Complexes under Infrastructure Development (ID) components of MSE-CDP at item no. viii of list of Admissible Items of Annexure - 2 of MSE-CDP guidelines dt. 24.05.2022.\nThis issues with the approval of Competent Authority.\nSudha Konaré (Sudha Keshari)\nAdditional Development Commissioner\nCopy to:\n1. The Cabinet Secretariat, Rashtrapati Bhawan, New Delhi\n2. All Ministries / Departments of the Central Government\n3. CEO, NITI Aayog, New Delhi\n4. Chief Secretary (States / UTs)\n5. SS & FA, IF Wing, Ministry of MSME\n6. CCA, Udyog Bhawan, New Delhi\n7. Joint Secretary to Government of India, Ministry of MSME, Udyog Bhawan, New Delhi\n8. CEO, KVIC\n9. Chairman, NSIC\n10. CMD, SIDBI\n11. Chairman, Coir Board\n12. All Directors, MSME-DFOs / Director, MSME Testing Centres / All Branch MSME- DFOs\n13. All Autonomous Bodies under DC, MSME\n14. Director General, NIMSME, Hyderabad\n15. Chairman / President, National Level Industry Associations\n16. Chairman / President, State Level Industry Associations\n17. PS to Hon'ble Minister, MSME\n18. PS to Hon'ble Minister of State, MSME\n19. PSO to Secretary (MSME)\n20. PPS to AS&DC (MSME)\nBudha Keshari Additional Development Commissioner (CD)\nAnnexure-2"
+    },
+    {
+      "chunk_id": "chunk_0078_5f212c94e128",
+      "source_type": "paragraph",
+      "role": "sectionHeading",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Admissible items under Infrastructure Development (ID) Projects",
+      "clause_number": null,
+      "page_numbers": [
+        56
+      ],
+      "paragraph_orders": [
+        1812,
+        1813,
+        1814,
+        1815,
+        1816,
+        1817,
+        1818,
+        1819,
+        1820,
+        1821,
+        1822,
+        1823,
+        1824,
+        1825,
+        1826,
+        1827,
+        1828,
+        1829,
+        1830
+      ],
+      "text": "Admissible items under Infrastructure Development (ID) Projects\ni. Boundary wall / fencing\nii. Laying roads\niii. Water supply including overhead tanks, and pump houses\niv. Water harvesting\nv. Drainage\nvi. Power (Sub-Station and distribution net-work work including Street light etc),\nvii. Others (Sanitary Conveniences etc.)\nviii. Flatted Factory Complexes/ Single Storied Factory Complexes\nix. Common Effluent Treatment\nx. Common Renewable Energy Generation (Solar, Wind, Bio)\nxi. Common Utilities System (Steam, Compressed Air/Gas, Cooling)\nxii. Raw Material Storage\nxiii. Common Water Recovery Plant\nxiv. Safety & Disaster Risk Reduction Cell\nxv. Latest Technological Backup Services in new industrial (multi-product) areas/estates or existing Industrial Areas/Estates/ Clusters.\nxvi. ID projects for Greenfield clusters for holistic developments of MSME sector.\nNote: Items may be added or deleted with the recommendation of NPAC and approval of Secretary MSME/Minister MSME.\nBadla Kanari 26/9/24"
+    },
+    {
+      "chunk_id": "chunk_0079_d3b4aa24a257",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 1",
+      "clause_number": null,
+      "text": "| Components | Implementing Agency/Fund Receiving Agency |\n| --- | --- |\n| Setting up of CFC | · Institutions of Ministry of MSME (MSME-DIs, NSIC, KVIC, Coir Board, Technology Centres, NI-MSME and MGIRI) · Organizations of State Governments · National and international institutions engaged in development of the MSE sector. · Any other institution / agency approved by the Ministry of MSME |\n| Infrastructure Development Projects | State / UT Governments through an appropriate State Government / UT Agency/Integrated Industrial Park Development Agency/State Industrial Development Agency. |",
+      "page_numbers": [
+        2
+      ],
+      "paragraph_orders": [],
+      "table_index": 1,
+      "table_shape": {
+        "row_count": 3,
+        "column_count": 2
+      }
+    },
+    {
+      "chunk_id": "chunk_0080_81c4c6788ca3",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 2",
+      "clause_number": null,
+      "text": "| 1. | ACS/Principal Secretary / Secretary (Industries/MSME) | Chairman |\n| --- | --- | --- |\n| 2. | Commissioner / Director of Industries / MSME. | Co Convener |\n| 3. | Managing Director or Representative of Implementing Agency | Member |\n| 4. | Representative of Finance Department | Member |\n| 5. | Director, MSME-Development Institute | Member Secretary 1 Convener |\n| 6. | General Manager, Concerned District Industries Centre | Member |",
+      "page_numbers": [
+        2
+      ],
+      "paragraph_orders": [],
+      "table_index": 2,
+      "table_shape": {
+        "row_count": 6,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0081_9554d337025e",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 3",
+      "clause_number": null,
+      "text": "| 7. | Special invitees (if any) like representative of SIDBI or any financial institution or any official required for the purpose | Member |\n| --- | --- | --- |\n| 8. | A representative from Technical Institution/MSME- Technology Centres of M/o MSME | Member |",
+      "page_numbers": [
+        3
+      ],
+      "paragraph_orders": [],
+      "table_index": 3,
+      "table_shape": {
+        "row_count": 2,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0082_1fb436f4fed1",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 4",
+      "clause_number": null,
+      "text": "| 1. | Secretary (MSME) | Chairman |\n| --- | --- | --- |\n| 2. | AS&DC (MSME) | Member |\n| 3. | Adviser (VSE), NITI Aayog | Member |\n| 4. | Joint Secretary (ARI), Ministry of MSME | Member |\n| 5. | Economic Adviser (EA)/IFW | Member |\n| 6. | Additional Development Commissioner / JS/DDG of the Cluster Division | Member Secretary |\n| 7. | Representative of SIDBI | Member |\n| 8. | Representative of CSIR | Member |\n| 9. | Representative of NSIC / KVIC | Member |\n| 10. | Representative(s) of DPIIT, MoTextile, DoPharma, | Member |",
+      "page_numbers": [
+        3
+      ],
+      "paragraph_orders": [],
+      "table_index": 4,
+      "table_shape": {
+        "row_count": 10,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0083_8613ed451fdc",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 5",
+      "clause_number": null,
+      "text": "|  | MeitY, MoRD, MoFPI, MoDefence, DoFisheries, Do Animal Husbandry and Dairying |  |\n| --- | --- | --- |\n| 11. | Director, MSME-DI concerned | Member |\n| 12. | Principal Secretary / Secretary (Industries/MSME) / Commissioner / Director of Industries / MSME of the State Govt. | Special Invitees |\n| 13. | Representative(s) of concerned Industry Association(s), Representative from Financial Institution, Programme Management Service Provider, Appraisal Agencies etc. | Special Invitees |\n| 14. | Director (CD) | Member |",
+      "page_numbers": [
+        4
+      ],
+      "paragraph_orders": [],
+      "table_index": 5,
+      "table_shape": {
+        "row_count": 5,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0084_b85c52f03442",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 6",
+      "clause_number": null,
+      "text": "| Components | Total Project cost | Funding Pattern |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n|  |  | Govt India | of | State Govt | SPV |\n| a. 1 Common Facility Centre | Rs 5 crore to Rs 10 crore | 80% |  | 15% | 5% |\n| a.2 Common Facility Centre | Rs 10 crore to 30 crore | 70% |  | 15% | 15% |\n| b.1 Infrastructure development- New | Rs 5 crore to Rs 15 crore | 70 % |  | 30% | --- |\n| b.2 Infrastructure development- Upgradation of existing Infrastructure | Rs 5 crore to Rs 10 crore | 60% |  | 40% | -- |",
+      "page_numbers": [
+        6
+      ],
+      "paragraph_orders": [],
+      "table_index": 6,
+      "table_shape": {
+        "row_count": 6,
+        "column_count": 6
+      }
+    },
+    {
+      "chunk_id": "chunk_0085_b7a30f17f7ac",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 7",
+      "clause_number": null,
+      "text": "| Para No. | Provisions incorporated |\n| --- | --- |\n| of the |  |\n| guidelines |  |",
+      "page_numbers": [
+        7
+      ],
+      "paragraph_orders": [],
+      "table_index": 7,
+      "table_shape": {
+        "row_count": 3,
+        "column_count": 2
+      }
+    },
+    {
+      "chunk_id": "chunk_0086_edabb733fd7b",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 8",
+      "clause_number": null,
+      "text": "| Components | Total Project cost | Funding Pattern |  |  |\n| --- | --- | --- | --- | --- |\n|  |  | Govt of India | State Govt | SPV |\n| a.1 Common Facility Centre | Rs 5 crore to Rs 10 crore | 80% | 15% | 5% |\n| a.2 Common Facility Centre | Rs 10 crore to 30 crore | 70% | 15% | 15% |\n| b. 1 Infrastructure development- New | Rs 5 crore to Rs 15 crore | 70 % | 30% | --- |\n| b.2 Infrastructure development- Upgradation of existing Infrastructure | Rs 5 crore to Rs 10 crore | 60% | 40% | -- |",
+      "page_numbers": [
+        7
+      ],
+      "paragraph_orders": [],
+      "table_index": 8,
+      "table_shape": {
+        "row_count": 6,
+        "column_count": 5
+      }
+    },
+    {
+      "chunk_id": "chunk_0087_b7d631a4c7ef",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 9",
+      "clause_number": null,
+      "text": "| Components | Total Project cost | Funding Pattern |  |  |\n| --- | --- | --- | --- | --- |\n|  |  | Govt of India | State Govt | SPV |\n| a.1 Common Facility Centre | Rs 5 crore to Rs 10 crore | 70% | 20% | 10% |\n| a.2 Common Facility Centre | Rs 10 crore to Rs 30 crore | 60% | 20% | 20% |\n| b.1 Infrastructure development- New | Rs 5 crore to Rs 15 crore | 60 % | 40% | --- |\n| b.2 Infrastructure development- Upgradation of existing Infrastructure | Rs 5 crore to Rs 10 crore | 50% | 50% | -- |",
+      "page_numbers": [
+        10
+      ],
+      "paragraph_orders": [],
+      "table_index": 9,
+      "table_shape": {
+        "row_count": 6,
+        "column_count": 5
+      }
+    },
+    {
+      "chunk_id": "chunk_0088_930c0883ee9d",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 10",
+      "clause_number": null,
+      "text": "| Components | Total Project cost | Funding Pattern |  |  |\n| --- | --- | --- | --- | --- |\n|  |  | Govt of India | State Govt | SPV |\n| a.1 Common Facility Centre | Rs 5 crore to Rs 10 crore | 80% | 15% | 5% |\n| a.2 Common Facility Centre | Rs 10 crore to 30 crore | 70% | 15% | 15% |\n| b.1 Infrastructure development- New | Rs 5 crore to Rs 15 crore | 70 % | 30% | --- |\n| b.2 Infrastructure development- Upgradation of existing Infrastructure | Rs 5 crore to Rs 10 crore | 60% | 40% | -- |",
+      "page_numbers": [
+        10
+      ],
+      "paragraph_orders": [],
+      "table_index": 10,
+      "table_shape": {
+        "row_count": 6,
+        "column_count": 5
+      }
+    },
+    {
+      "chunk_id": "chunk_0089_6038c09f0738",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 11",
+      "clause_number": null,
+      "text": "| Name of MSE | Constitutio n | Udyam Registratio n Number | Date of Incorporation s | Name of Promoter | Turnover during last FY | Proposed contribution to CFC |\n| --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |",
+      "page_numbers": [
+        12
+      ],
+      "paragraph_orders": [],
+      "table_index": 11,
+      "table_shape": {
+        "row_count": 2,
+        "column_count": 7
+      }
+    },
+    {
+      "chunk_id": "chunk_0090_8de2f80e6ef7",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 12",
+      "clause_number": null,
+      "text": "| 1. | ACS/Principal Secretary / Secretary (Industries/MSME) | Chairman |\n| --- | --- | --- |\n| 2. | Commissioner / Director of Industries / MSME. | Co Convener |\n| 3. | Managing Director or Representative of Implementing Agency | Member |\n| 4. | Representative of Finance Department | Member |\n| 5. | Director, MSME-Development Institute | Member Secretary / Convener |\n| 6. | General Manager, Concerned District Industries Centre | Member |\n| 7. | Special invitees (if any) like representative of SIDBI or any financial institution or any official required for the purpose | Member |\n| 8. | A representative from Technical Institution/MSME- Technology Centres of M/oMSME | Member |",
+      "page_numbers": [
+        14
+      ],
+      "paragraph_orders": [],
+      "table_index": 12,
+      "table_shape": {
+        "row_count": 8,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0091_e454511a6dcb",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 13",
+      "clause_number": null,
+      "text": "| 1. | Secretary (MSME) | Chairman |\n| --- | --- | --- |\n| 2. | AS&DC (MSME) | Member |\n| 3. | Adviser (VSE), NITI Aayog | Member |\n| 4. | Joint Secretary (ARI), Ministry of MSME | Member |\n| 5. | Economic Adviser (EA)/IFW | Member |\n| 6. | Additional Development Commissioner/JS/DDG of the Cluster Division | Member Secretary |\n| 7. | Representative of SIDBI | Member |\n| 8. | Representative of CSIR | Member |\n| 9. | Representative of NSIC / KVIC | Member |\n| 10. | Representative of DPIIT, MoTextile, DoPharma, MeitY, MoRD, MoFPI, MoDefence, DoFisheries, DoAnimal Husbandry and Dairying | Member |\n| 11. | Director, MSME-DI concerned | Member |\n| 12. | Principal Secretary / Secretary (Industries/MSME) / Commissioner / Director of Industries / MSME of the State Govt. | Special Invitees |\n| 13. | Representative(s) of concerned Industry Association(s), Representative from Financial Institution, Programme Management Service Provider, Appraisal Agencies etc. | Special Invitees |\n| 14. | Director (CD) | Member |",
+      "page_numbers": [
+        15
+      ],
+      "paragraph_orders": [],
+      "table_index": 13,
+      "table_shape": {
+        "row_count": 14,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0092_52e423c54509",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 14",
+      "clause_number": null,
+      "text": "| Components | Implementing Agency/Fund Receiving Agency |\n| --- | --- |\n| Setting up of CFC | · Institutions of Ministry of MSME (MSME-DIs, NSIC, KVIC, Coir Board, Technology Centres, NI-MSME and MGIRI) · Organizations of State Governments · National and International Institutions engaged in development of the MSE sector. . Any other institution / agency approved by the Ministry of MSME |\n| Infrastructure Development Projects | State / UT Governments through an appropriate State Government / UT Agency/ Integrated Industrial Park Development Agency/State Industrial Development Agency. |",
+      "page_numbers": [
+        16
+      ],
+      "paragraph_orders": [],
+      "table_index": 14,
+      "table_shape": {
+        "row_count": 3,
+        "column_count": 2
+      }
+    },
+    {
+      "chunk_id": "chunk_0093_22f5522e5b53",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 15",
+      "clause_number": null,
+      "text": "| S. No. | Period in month | Authority | Remarks |\n| --- | --- | --- | --- |\n| 1. | 3 months | State Govt. | State govt. may inform about the period of extension. |\n| 2. | Next 3 months | AS&DC (MSME) | On recommendation of State Govt. with reasons for delay. |\n| 3. | Next 12 months | NPAC | On recommendation of State Govt. with reasons for delay. |\n| 4. | Further, extension required if any | Minister /Minister In-charge for MSME | On recommendation of Minister In-charge for MSME / Chief Secretary of the State. |",
+      "page_numbers": [
+        18
+      ],
+      "paragraph_orders": [],
+      "table_index": 15,
+      "table_shape": {
+        "row_count": 5,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0094_bdb8df95eaf3",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 16",
+      "clause_number": null,
+      "text": "|  | Objectives | MeasurableIndicator(s) | Means of measurement (Data source) |\n| --- | --- | --- | --- |\n| Outcomes | 1. For CFC- MSEs benefited | 1.1-MSEs to avail Common facilities | Nos. (SPV) |\n|  |  | 1.2-Increase in Production | % (SPV) |\n|  |  | 1.3-Reduction in Cost of Production | % (SPV) |\n|  |  | 1.4-Decrease in wastage of RM | % (SPV) |\n|  |  | 1.5-Increase in Sales Revenue | \\| % ( (SPV) |\n|  |  | 1.6-Employment Increase | % (SPV) |\n|  |  | 1.7-Income Increase | % (SPV) |\n|  |  | Decrease in Rejection | % (SPV) |\n|  | 2. For Infrastructure development projects- MSEs benefited and infrastructure created | 2.1 Plot for MSEs | Nos. (State Govt.) |\n|  |  | 2.2-Common Utilities | Road constructed |\n|  |  |  | Electrical Sub Station |\n|  |  |  | Water Harvesting |\n|  |  |  | ETP |\n|  |  |  | Green Energy |\n| Outputs | 1. Total No. CFCs commissioned | 1.1-Commissioning of Plant and machinery | Project Completion Report by Competent Authority |\n|  |  | 1.2- Release of Final Installment of GoI grant | Transfer of fund in PFMS platform |\n|  | 2. Total nos. of the infrastructure development projects completed | 2.1 Completion of ID projects | Project Completion Report by Competent Authority |\n|  |  | 2.2 Release of Final Installment of GoI grant | Transfer of fund in PFMS platform |",
+      "page_numbers": [
+        21
+      ],
+      "paragraph_orders": [],
+      "table_index": 16,
+      "table_shape": {
+        "row_count": 19,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0095_89b1486626d5",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 17",
+      "clause_number": null,
+      "text": "| Name of applicant, contact details, etc | As CFC Registered address / administrative address may be different from CFC facilities address, the same may be provided |\n| --- | --- |\n| Location of Common Facility Centre | Address where facilities are proposed may be provided |\n| Main facilities being proposed | Details of facilities to be provided |",
+      "page_numbers": [
+        25
+      ],
+      "paragraph_orders": [],
+      "table_index": 17,
+      "table_shape": {
+        "row_count": 3,
+        "column_count": 2
+      }
+    },
+    {
+      "chunk_id": "chunk_0096_9eae1f5a10bc",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 18",
+      "clause_number": null,
+      "text": "| S. No. | Description | Details/ Compliance |\n| --- | --- | --- |\n| (i) | Name and address |  |\n| (ii) | Registration details of SPV (including registration as Section 8 company under the Companies Act 2013) |  |\n| (iii) | Names of the State Govt and MSME officials in SPV |  |\n| (iv) | Date of formation of the company |  |\n| (v) | Date of commencement of business |  |\n| (vi) | Number of MSE Member Units |  |\n| (vii) | Bye laws or MoA and AoA submitted |  |\n| (viii) | Main objectives of the SPV2 |  |\n| (ix) | SPV to have a character of inclusiveness wherein provision for enrolling new members to enable prospective entrepreneurs in the cluster to utilise the facility |  |\n| (x) :selected: | Clause about 'Profits/ surplus to be ploughed back to CFC' included or not |  |",
+      "page_numbers": [
+        25
+      ],
+      "paragraph_orders": [],
+      "table_index": 18,
+      "table_shape": {
+        "row_count": 11,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0097_06a0520da449",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 19",
+      "clause_number": null,
+      "text": "| (xi) | Authorized share capital |  |\n| --- | --- | --- |\n| (xii) | Shareholding Pattern (Annexure-3 to be filled in) |  |\n| (xiii) | Commitment letter for SPV Upfront contribution4 |  |\n| (xiv) | Project specific A/c in schedule A bank |  |\n| (xv) | Clause about 'CFC may be utilised by SPV members as also others in a cluster and Evidence for SPV members' ability to utilise at least 60% of installed capacity' |  |\n| (xvi) | Main Role of SPV |  |\n| (xvii) | Trust building of SPV' so that CFC may be successful |  |",
+      "page_numbers": [
+        26
+      ],
+      "paragraph_orders": [],
+      "table_index": 19,
+      "table_shape": {
+        "row_count": 7,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0098_12453b82eda4",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 20",
+      "clause_number": null,
+      "text": "| Name of the Office bearers of the SPV |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| Age (years) |  |  |  |  |  |  |  |\n| Educational Qualification |  |  |  |  |  |  |  |\n| Relationship with the chief promoter |  |  |  |  |  |  |  |\n| Experience in what capacity/ industry/ years |  |  |  |  |  |  |  |\n| Income Tax / Wealth Tax Status (returns for 3 years to be furnished) |  |  |  |  |  |  |  |\n| Other concerns interest / in which capacity /financial stake |  |  |  |  |  |  |  |",
+      "page_numbers": [
+        26
+      ],
+      "paragraph_orders": [],
+      "table_index": 20,
+      "table_shape": {
+        "row_count": 7,
+        "column_count": 8
+      }
+    },
+    {
+      "chunk_id": "chunk_0099_5c3638a87204",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 21",
+      "clause_number": null,
+      "text": "| S. No. | Eligibility Criteria | Comments |\n| --- | --- | --- |\n| 1. | The GoI grant will be restricted to 60% / 70% / 80% of the cost of Project of maximum Rs.30.00 crore as per the Scheme guidelines. |  |\n| 2. | Cost of project includes cost of Land (subject to max. of 25% of Project Cost), building, pre-operative expenses, preliminary expenses, machinery & equipment, miscellaneous fixed assets, support infrastructure such as water supply, electricity and margin money for working capital. |  |\n| 3. | The entire cost of land and building for CFC shall be met by SPV/State Government concerned. |  |\n| 4. | In case existing land and building is provided by stakeholders, the cost of land and building will be decided on the basis of valuation report prepared by an approved agency of Central/State Govt. Departments/FIs/Public Sector Banks. Cost of land and building may be taken towards contribution for the project. |  |\n| 5. | CFC can be set up in leased premises. However, the lease should be legally tenable and for a fairly long duration (say 15 years). |  |\n| 6. | Escalation in the cost of project above the sanctioned amount, due to any reason, will be borne by the SPV/ State Government. The Central Government shall not accept any financial liability arising out of operation of any CFC. |  |\n| 7. | DPR should be appraised by a bank (if bank financing is involved) / independent Technical Consultancy Organization/ SIDBI. |  |\n| 8. | Proposals approved and forwarded by the concerned state government. |  |\n| 9. | Evidence should be furnished with regard to SPV members ability to utilize at least 60% of installed capacity. |  |",
+      "page_numbers": [
+        27
+      ],
+      "paragraph_orders": [],
+      "table_index": 21,
+      "table_shape": {
+        "row_count": 10,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0100_a68bd6c7918e",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 22",
+      "clause_number": null,
+      "text": "|  | Description | Compliance |\n| --- | --- | --- |\n| a. | Name of Implementation Agency |  |\n| b. | Role of Implementing Agency (e.g. implementation and monitoring of project, sending regular progress reports, issuing proper UCs, ) |  |",
+      "page_numbers": [
+        27
+      ],
+      "paragraph_orders": [],
+      "table_index": 22,
+      "table_shape": {
+        "row_count": 3,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0101_019e9fe83abf",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 23",
+      "clause_number": null,
+      "text": "| c. | Implementation Period 6 |  |\n| --- | --- | --- |\n| d. | Commitment of State Government upfront contribution |  |\n| e. | Commitment of Loans (Working capital and/ or term loan) |  |",
+      "page_numbers": [
+        28
+      ],
+      "paragraph_orders": [],
+      "table_index": 23,
+      "table_shape": {
+        "row_count": 3,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0102_1d9e9f3eb728",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 24",
+      "clause_number": null,
+      "text": "| S. No. | Description of the employee | Number |\n| --- | --- | --- |\n| 1 |  |  |\n| 2 |  |  |\n| 3 |  |  |\n| 4 |  |  |\n| .. |  |  |\n| .. |  |  |",
+      "page_numbers": [
+        28
+      ],
+      "paragraph_orders": [],
+      "table_index": 24,
+      "table_shape": {
+        "row_count": 7,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0103_888e8715d36b",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 25",
+      "clause_number": null,
+      "text": "| Activities | Start Date | Completion Date |\n| --- | --- | --- |\n| Preparation of Project Report |  |  |\n| Sanction of Grant from Government of India |  |  |\n| NOC from Pollution Control Board |  |  |\n| Site Development |  |  |\n| Building up-keep |  |  |\n| Placement of order to equipment supplier |  |  |\n| Supply of equipments by suppliers |  |  |\n| Installation of equipments at site |  |  |\n| Sanction of power connection |  |  |\n| Trial Run |  |  |\n| Commercial Production |  |  |",
+      "page_numbers": [
+        28
+      ],
+      "paragraph_orders": [],
+      "table_index": 25,
+      "table_shape": {
+        "row_count": 12,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0104_eec8c05ad9ec",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 26",
+      "clause_number": null,
+      "text": "| S. No. | Particulars | Amount |\n| --- | --- | --- |\n| 1 | Land and Building |  |\n| 2 | Plant & Machinery including MFA, Installation, Taxes/duties, Contingencies, etc. |  |\n| 3 | Preliminary & Pre-operative expenses® |  |\n| 4 | Margin money for Working Capital9 |  |\n|  | Total |  |",
+      "page_numbers": [
+        29
+      ],
+      "paragraph_orders": [],
+      "table_index": 26,
+      "table_shape": {
+        "row_count": 6,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0105_dc3112ceca62",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 27",
+      "clause_number": null,
+      "text": "| S. No. | Description | No. | Amount |\n| --- | --- | --- | --- |\n| 1 |  |  |  |\n| 2 |  |  |  |\n| 3 |  |  |  |\n| 4 |  |  |  |",
+      "page_numbers": [
+        29
+      ],
+      "paragraph_orders": [],
+      "table_index": 27,
+      "table_shape": {
+        "row_count": 5,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0106_6ce8b9459b8f",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 28",
+      "clause_number": null,
+      "text": "| S. No. | Particulars | Percentage | Amount |\n| --- | --- | --- | --- |\n|  |  |  |  |\n|  |  |  |  |\n|  |  |  |  |\n|  | Total |  |  |",
+      "page_numbers": [
+        29
+      ],
+      "paragraph_orders": [],
+      "table_index": 28,
+      "table_shape": {
+        "row_count": 5,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0107_0c8a975e2b3f",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 29",
+      "clause_number": null,
+      "text": "| S. No. | Particulars | FY 1 | FY 2' | FY3 | FY4 | FY5 |\n| --- | --- | --- | --- | --- | --- | --- |\n| 1 | Net Block |  |  |  |  |  |\n| 2 | Current Assets (incl. cash/bank balance) |  |  |  |  |  |\n| 3 | Current Liabilities (incl. principal installment falling due during the year) |  |  |  |  |  |\n| 4 | Long term borrowings |  |  |  |  |  |\n| 5 | Capital |  |  |  |  |  |\n| 6 | Reserves and Surplus |  |  |  |  |  |\n| 7 | Unsecured loan |  |  |  |  |  |\n| 8 | Net Worth (incl. GoI Subsidy as Quasi-equity) |  |  |  |  |  |\n| 9 | Income |  |  |  |  |  |\n| 10 | Gross profit |  |  |  |  |  |\n| 11 | Depreciation |  |  |  |  |  |\n| 12 | Profit after tax |  |  |  |  |  |\n| 13 | Gross Cash Accruals |  |  |  |  |  |",
+      "page_numbers": [
+        30
+      ],
+      "paragraph_orders": [],
+      "table_index": 29,
+      "table_shape": {
+        "row_count": 14,
+        "column_count": 7
+      }
+    },
+    {
+      "chunk_id": "chunk_0108_8b13b05774c7",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 30",
+      "clause_number": null,
+      "text": "|  | Before Intervention | After Intervention |\n| --- | --- | --- |\n| Particulars | Qty. / Outcome | Qty. / Outcome |\n| Units (including details of SC/ST/Women /Minorities) |  |  |\n| Employment |  |  |\n| Production |  |  |\n| Exports |  |  |\n| Import Substitution |  |  |\n| Number of patent expected aimed |  |  |\n| Investment |  |  |\n| Turnover |  |  |\n| Profit |  |  |\n| Quality |  |  |\n| Certification |  |  |\n| Any others (No. of ZED certified units) |  |  |",
+      "page_numbers": [
+        30
+      ],
+      "paragraph_orders": [],
+      "table_index": 30,
+      "table_shape": {
+        "row_count": 14,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0109_5798f4bb9207",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 31",
+      "clause_number": null,
+      "text": "| S. No. | Target | Timeline | Action by |\n| --- | --- | --- | --- |\n| 1.0 | Examination of the proposal | a.TR0+01 month (Projects without shortcomings in DPR /documents) b.TR0+01 month & 20 days (Projects with shortcomings in DPR / documents) | a. MSME-DI b. MSME-DI and SPV/Implementing Agency |\n| 1.1 | Online Submission of DPR, Project Appraisal Report and other required documents relating to land, SPV etc. of the cluster/industrial estate with Geo tagging. | TR0 | SPV/ Implementing Agency |\n| 1.2 | Receipt of hard copies of DPR, Appraisal Report and other required documents relating to land, SPV etc. at MSME-DI. |  |  |\n| 1.3 | Examination of DPR and documents. Cluster visit and stake holder consultation. | TR0+01 month | MSME-DI |\n| 1.4 | Completion of other mandatory activities like Press release in local news paper etc. |  |  |\n| 1.5 | Issuance of communication to SPV/ Implementing Agency about shortcomings in DPR/documentation, if required. |  |  |\n| 1.6 | Modified DPR/documents as per the requirement. | TR0+01 month & 20 days | SPV/Implementing Agency |\n| 2.0 | Recommendation of the proposal by State Level Steering Committee | TR0+ 3 months | MSME-DI and State Government |\n| 2.1 | Forwarding the details of the proposals along with observations if any, to Chairman of State Level Steering Committee. | a. TR0+01 month&10 days (Projects without shortcomings in DPR /documents) b.TR0+02 months (Projects with shortcomings in DPR / documents) | MSME-DI |\n| 2.2 | SLSC meeting, presentation about the proposal by SPV/Implementing Agency during the meeting. Issuance of MoM of SLSC (MoM must include observations of MSME-DI if any) | TR0+ 03 months | MSME DI and State Government |",
+      "page_numbers": [
+        36
+      ],
+      "paragraph_orders": [],
+      "table_index": 31,
+      "table_shape": {
+        "row_count": 11,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0110_c1603d5e4d3c",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 32",
+      "clause_number": null,
+      "text": "| S. No. | Target | Timeline | Action by |\n| --- | --- | --- | --- |\n| 3.0 | Submission of the proposal to O/o DC- MSME | TR0 + 3 months & 5 days |  |\n| 3.1 | Submission of recommendations of SLSC online as well as along with hard copies of DPR, MoM and observation of MSME- DIs. | TR0+ 3 months & 5 days (3 working days) | MSME-DI |\n| 4.0 | NPAC meeting | TR0 + 5 months | Cluster Division, O/o DC-MSME |\n| 4.1 | Proposal examination and processing | TR0+ 3 months & 15 days | Cluster Division, O/o DC-MSME |\n| 4.2 | NPAC meeting | TR0+ 5 months | Cluster Division, O/o DC-MSME |",
+      "page_numbers": [
+        37
+      ],
+      "paragraph_orders": [],
+      "table_index": 32,
+      "table_shape": {
+        "row_count": 6,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0111_b5ca84e32775",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 33",
+      "clause_number": null,
+      "text": "| S. No. | Target | Timeline | Action by |\n| --- | --- | --- | --- |\n| 1.0 | Approval of the proposal | T0 | NLSC |\n| 1.1 | Approval of Minutes of the Meeting by the Ministry | T0+5 days | Cluster Division of DC- MSME |\n|  | Sharing of Minutes of the meeting | T0+6 | Cluster Division of DC- MSME |\n| 1.3 | Request for issuance of Final Approval letter | T0+11 days | State Government / Implementing Agency (IA) |\n| 1.4 | Issuance of Final Approval letter of the project with concurrence of IF Wing. | T0+20 days | Office of DC (MSME)/IF Wing. |\n| 2.0 | Construction of building | T0+ 7 months | - |\n| 2.1 | Upfront contribution by SPV and State Government/Implementing Agency | T0+ 1 month & 20 days | SPV / State Government / IA |\n| 2.2 | Contract signing with contractors | T0+ 2 months | SPV / State Government / IA |\n| 2.3 | Start of building construction | T0+ 2 months & 10 days | SPV / State Government / IA |\n| 2.4 | Completion of the foundation | T0+4 months | SPV / State Government / IA |\n| 2.5 | Putting the shed, laying of roof / shed | T0+6 months | SPV / State Government / IA |\n| 2.6 | Finalization of Buildings | T0+ 6 months & 20 days | SPV / State Government / IA |\n| 2.7 | Joint Inspection of land and building by State Govt./IA/SPV. | T0+ 7 months (to be done parallely with construction of building) | State Government / IA/SPV & MSME-DI |\n| 3.0 | Release of GoI grant as 1st installment | T0 + 7 months & 20 |  |",
+      "page_numbers": [
+        37
+      ],
+      "paragraph_orders": [],
+      "table_index": 33,
+      "table_shape": {
+        "row_count": 15,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0112_449030dbd467",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 34",
+      "clause_number": null,
+      "text": "| S. No. | Target | Timeline | Action by |\n| --- | --- | --- | --- |\n|  |  | days |  |\n| 3.1 | Fund release request along with necessary documents | T0+ 7 months & 5 days | State Government / IA/MSME-DI |\n| 3.2 | Fund transfer | T0+ 7 months & 20 days | Office of DC(MSME)/IF Wing/PAO |\n| 4.0 | Installation of plant & machinery (1st lot) | T0+ 1 year |  |\n| 4.1 | Completion of e-tendering process for procurement of plant & machinery for 1st lot. | T0+7 months | SPV / State Government / IA/MSME-DI |\n| 4.2 | Issuance of supply order in accordance with e-tendering process | T0+ 8 months | State Government / Implementing Agency |\n| 4.3 | Supply of plant & machinery | T0+ 11 months & 20 days | - |\n| 4.4 | Installation and inspection of plant & machinery | T0+ 1 year | SPV / State Government / IA/MSME-DI |\n| 5.0 | Release of GoI grant as 2nd installment | T0 + 1 year & 25 days |  |\n| 5.1 | Fund release request along with necessary documents | T0+ 1 year & 10 days | State Government / IA/MSME-DI |\n| 5.2 | Fund transfer | T0+ 1 year & 25 days | Office of DC(MSME)/IF Wing/PAO |\n| 6.0 | Installation of plant & machinery (2nd lot) | T0+ 1 year & 3 months |  |\n| 6.1 | Completion of e-tendering process for procurement of plant & machinery for 2nd lot. | T0+ 10 months | SPV / State Government / IA/MSME-DI |\n| 6.2 | Issuance of supply order in accordance with e-tendering process | T0+ 11 months | State Government / Implementing Agency |\n| 6.3 | Supply of plant & machinery | T0+ 1 year & 2 months & 20 days. | - |\n| 6.4 | Installation and inspection of plant & machinery | T0+ 1 year & 3 months | SPV / State Government / IA/MSME-DI |\n| 7.0 | Release of GoI grant as 3rd & final installment | T0+ 1 year & 4 months & 15 days |  |\n| 7.1 | Fund release request along with necessary documents | T0+ 1 year & 4 months | State Government / IA/MSME-DI |\n| 7.2 | Fund transfer | T0+ 1 year & 4 months & 15 days | Office of DC(MSME)/IF Wing/PAO |\n| 8.0 | CFC functional | T0+ 1 year & 4 months & 15 days | - |\n| 9.0 | Market Linkages | T0+ 6 months |  |\n| 9.1 | Start of Marketing Linkages Exercise | T0+ 1 month | Implementing Agency |",
+      "page_numbers": [
+        38
+      ],
+      "paragraph_orders": [],
+      "table_index": 34,
+      "table_shape": {
+        "row_count": 23,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0113_10fec11908de",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 35",
+      "clause_number": null,
+      "text": "| S. No. | Target | Timeline | Action by |\n| --- | --- | --- | --- |\n|  |  |  | /SPV/MSME-DI |\n| 9.2 | Tie-up with various major suppliers | T0+ 3 months | Implementing Agency /SPV/MSME |\n| 9.3 | Planning for common procurement of raw material, services and other inputs | T0+ 3 months | Implementing Agency /SPV/MSME |\n| 9.4 | Campaigning with local purchasers / suppliers | T0+ 4 months | Implementing Agency /SPV/MSME |\n| 9.5 | Campaigning for common buyers of finished / semi - finished products | T0+ 6 months | Implementing Agency /SPV/MSME-DI |\n| 10 | CFC as model CFC | T0+ 1 year & 4 months |  |\n| 10.1 | Showcasing various activities about the cluster on the building of the CFC | T0+ 1 year | SPV |\n| 10.2 | Setting up solar plants on the roof tops | T0+ 1 year & 3 months | Implementing Agency /SPV |\n| 10.3 | Start of Lean Consultancy | T0+ 1 year | Implementing Agency /SPV |\n| 10.4 | Start of digitalization exercise | T0+ 1 year | Implementing Agency /SPV |\n| 10.5 | Completion of lean | T0+ 1 year & 4 months | Implementing Agency /SPV |\n| 10.6 | Completion of digitalization | T0+ 1 year & 4 months | Implementing Agency /SPV |",
+      "page_numbers": [
+        39
+      ],
+      "paragraph_orders": [],
+      "table_index": 35,
+      "table_shape": {
+        "row_count": 13,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0114_2c9b12aa4445",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 36",
+      "clause_number": null,
+      "text": "| Name of CEO of SPV , Address & Contact Number |  |\n| --- | --- |\n| Name, Address & Contact No. of the State Government Official in the SPV |  |\n| Name, Address & Contact No. of MSME Official in SPV |  |",
+      "page_numbers": [
+        40
+      ],
+      "paragraph_orders": [],
+      "table_index": 36,
+      "table_shape": {
+        "row_count": 3,
+        "column_count": 2
+      }
+    },
+    {
+      "chunk_id": "chunk_0115_fb76a776d87b",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 37",
+      "clause_number": null,
+      "text": "| Description | Details |\n| --- | --- |\n| Date of Issue of Administrative Approval |  |\n| Date due for Completion of Project |  |\n| Reason for delay, if any , in Completion of the Project |  |",
+      "page_numbers": [
+        41
+      ],
+      "paragraph_orders": [],
+      "table_index": 37,
+      "table_shape": {
+        "row_count": 4,
+        "column_count": 2
+      }
+    },
+    {
+      "chunk_id": "chunk_0116_afdd49ec3d94",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 38",
+      "clause_number": null,
+      "text": "| Details of Fund Release | UC I attached at |\n| --- | --- |\n| 1st Release amount ----------- Date -- |  |\n| 2nd Release amount- Date |  |\n| 3rd Release amount- Date- |  |\n| Total Release Amount- |  |",
+      "page_numbers": [
+        41
+      ],
+      "paragraph_orders": [],
+      "table_index": 38,
+      "table_shape": {
+        "row_count": 5,
+        "column_count": 2
+      }
+    },
+    {
+      "chunk_id": "chunk_0117_148e9fbb1571",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 39",
+      "clause_number": null,
+      "text": "| S.No. | Before CFC | After setting up of CFC |\n| --- | --- | --- |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |",
+      "page_numbers": [
+        41
+      ],
+      "paragraph_orders": [],
+      "table_index": 39,
+      "table_shape": {
+        "row_count": 6,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0118_530512ba0b71",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 40",
+      "clause_number": null,
+      "text": "| S. N. | Details (as per Final Approval) | Cost as | Expenditure |  |  | Total Expenditur e | Physical Progress in %age or other details |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  | per approved Project cost | SPV | GoI | State Govt. / others |  |  |\n| 1 | Land |  |  |  |  |  |  |\n| 2 | Building |  |  |  |  |  |  |\n| 3 | Plant & Machinery |  |  |  |  |  |  |\n| 4 | Supporting Equipment |  |  |  |  |  |  |\n| 5 | Contingency & pre-operative Expenses |  |  |  |  |  |  |\n| 6 | Others |  |  |  |  |  |  |\n|  | Total |  |  |  |  |  |  |",
+      "page_numbers": [
+        42
+      ],
+      "paragraph_orders": [],
+      "table_index": 40,
+      "table_shape": {
+        "row_count": 9,
+        "column_count": 8
+      }
+    },
+    {
+      "chunk_id": "chunk_0119_ddd87495d22b",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 41",
+      "clause_number": null,
+      "text": "| Sig. of Office-in-charge MSME-DI | Sig. of State Govt. Officer | Sig. of Implementing Agency | Sig. of SPV |\n| --- | --- | --- | --- |\n| (Duly stamped) | (Duly Stamped) | (Duly Stamped) | (Duly Stamped) |",
+      "page_numbers": [
+        42
+      ],
+      "paragraph_orders": [],
+      "table_index": 41,
+      "table_shape": {
+        "row_count": 2,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0120_149ebd24e7b7",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 42",
+      "clause_number": null,
+      "text": "| 1. | Date of Issue of Administrative approval |  |  |\n| --- | --- | --- | --- |\n| 2. | Details of funds released both by state government/ IA and Government of India |  |  |\n| 3. | Implementation Period |  |  |\n| 4. | Date due for completion of project |  |  |\n| 5. | Actual Date of Completion |  |  |\n| 6. | Utilization Certificates (in GFR 12C)1 submitted by IA | Date | Amount |\n| 7. | Date of latest Physical Joint Inspection (please enclose a copy) |  |  |",
+      "page_numbers": [
+        44
+      ],
+      "paragraph_orders": [],
+      "table_index": 42,
+      "table_shape": {
+        "row_count": 7,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0121_b1c15aec1461",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 43",
+      "clause_number": null,
+      "text": "| Plots to be developed |  | Actually developed | Allotted | Units set up |  |\n| --- | --- | --- | --- | --- | --- |\n| Size | No. |  |  |  |  |\n|  |  |  |  |  |  |",
+      "page_numbers": [
+        44
+      ],
+      "paragraph_orders": [],
+      "table_index": 43,
+      "table_shape": {
+        "row_count": 3,
+        "column_count": 6
+      }
+    },
+    {
+      "chunk_id": "chunk_0122_03a8f2097a4a",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 44",
+      "clause_number": null,
+      "text": "|  | Total Area |\n| --- | --- |\n| 9. | Employment Generated |",
+      "page_numbers": [
+        44
+      ],
+      "paragraph_orders": [],
+      "table_index": 44,
+      "table_shape": {
+        "row_count": 2,
+        "column_count": 2
+      }
+    },
+    {
+      "chunk_id": "chunk_0123_b22aadb751c7",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 45",
+      "clause_number": null,
+      "text": "| S. N. | Details | Cost as per approved Project cost | Expenditure | Physical Progress in %age or other details | Remarks (including reasons for any shortfall) |\n| --- | --- | --- | --- | --- | --- |\n| 1 |  |  |  |  |  |\n| 2 |  |  |  |  |  |\n| . |  |  |  |  |  |\n|  | Total |  |  |  |  |",
+      "page_numbers": [
+        44
+      ],
+      "paragraph_orders": [],
+      "table_index": 45,
+      "table_shape": {
+        "row_count": 5,
+        "column_count": 6
+      }
+    },
+    {
+      "chunk_id": "chunk_0124_0221f2e9137b",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 46",
+      "clause_number": null,
+      "text": "|  | Details (components as per final approval letter) | Qty as per Final Approval letter | Qty executed at site | Amount as per approved cost | Actual expenditure incurred |\n| --- | --- | --- | --- | --- | --- |\n| (i) | -- |  |  |  |  |\n| (ii) | -- |  |  |  |  |\n| :selected: (iii) | -- |  |  |  |  |\n| (iv) | --- |  |  |  |  |\n| (v) | -- |  |  |  |  |\n|  | Grand Total |  |  |  |  |",
+      "page_numbers": [
+        45
+      ],
+      "paragraph_orders": [],
+      "table_index": 46,
+      "table_shape": {
+        "row_count": 7,
+        "column_count": 6
+      }
+    },
+    {
+      "chunk_id": "chunk_0125_eec25e9572b2",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 47",
+      "clause_number": null,
+      "text": "| Sig. of Office-in-charge MSME-DI | Sig. of State Govt. Officer | Sig. of Implementing Agency |\n| --- | --- | --- |\n| (Duly stamped) | (Duly Stamped) | (Duly Stamped) |",
+      "page_numbers": [
+        45
+      ],
+      "paragraph_orders": [],
+      "table_index": 47,
+      "table_shape": {
+        "row_count": 2,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0126_5eec40d97876",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 48",
+      "clause_number": null,
+      "text": "|  | M/s (Name of IA) do hereby give an undertaking that the terms |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| and | conditions | under | which | the |  | grant | in | aid | of |\n| Rs. | (Rs. |  |  |  |  | only) has | been | sanctioned | vide |\n| letter | No. | dated |  |  | for | setting | up | (Name | of |\n| CFC) | at | (Name | of Location) |  |  | under the | MSE-CDP | scheme, | are |",
+      "page_numbers": [
+        47
+      ],
+      "paragraph_orders": [],
+      "table_index": 48,
+      "table_shape": {
+        "row_count": 5,
+        "column_count": 10
+      }
+    },
+    {
+      "chunk_id": "chunk_0127_f2bde35f19db",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 49",
+      "clause_number": null,
+      "text": "| Undertaking for setting up of Industrial Estate at |  |  |  | sanctioned by Office of |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| DC(MSME), | Ministry | of | MSME, | New | Delhi | vide | letter |\n| No. | dated |  | . |  |  |  |  |",
+      "page_numbers": [
+        49
+      ],
+      "paragraph_orders": [],
+      "table_index": 49,
+      "table_shape": {
+        "row_count": 3,
+        "column_count": 8
+      }
+    },
+    {
+      "chunk_id": "chunk_0128_b12de5eb2d91",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 50",
+      "clause_number": null,
+      "text": "| (Name of IA) do hereby give an undertaking that the terms and |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| conditions | under | which | the | grant | in |  | aid | of |\n| Rs. | (Rs. |  |  | only) | has | been | sanctioned | vide |\n| letter No. |  | dated |  | for setting | up | (Name | of | Industrial |\n| Estate) at | (Name of Location) |  | under the MSE-CDP scheme, |  | are acceptable. |  |  |  |",
+      "page_numbers": [
+        49
+      ],
+      "paragraph_orders": [],
+      "table_index": 50,
+      "table_shape": {
+        "row_count": 5,
+        "column_count": 9
+      }
+    },
+    {
+      "chunk_id": "chunk_0129_0b47fe8dd48a",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 51",
+      "clause_number": null,
+      "text": "| SI. No. | Letter No. and date | Amount | Certified that out of Rs of |\n| --- | --- | --- | --- |\n|  | Total |  | grants sanctioned during the year in favour of under the Ministry/Department Letter No. given In the margin and Rs on account of unspent balance of the previous year, a sum of Rs has been utilized for the propose of for which it was sanctioned and that the balance of Rs remaining unutilized at the end of the year has been surrendered to Government (vide No. dated )/will be adjusted towards the grants payable during the next year |\n|  |  |  |  |\n|  |  |  |  |",
+      "page_numbers": [
+        50
+      ],
+      "paragraph_orders": [],
+      "table_index": 51,
+      "table_shape": {
+        "row_count": 4,
+        "column_count": 4
+      }
+    },
+    {
+      "chunk_id": "chunk_0130_a78af75ce6da",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 52",
+      "clause_number": null,
+      "text": "| 1 | Whether the MSME-DI. is satisfied with the completion report of the project. | Yes / No |\n| --- | --- | --- |\n| 2 | Whether all the targets fixed for this project have been achieved fully. | Yes / No |\n| 3. | Whether the interest, if any earned on the grant released to the Implementing Agency for the purpose has been taken into account/adjusted for the final release of GIA. | Yes / No (if Yes, details) |",
+      "page_numbers": [
+        51
+      ],
+      "paragraph_orders": [],
+      "table_index": 52,
+      "table_shape": {
+        "row_count": 3,
+        "column_count": 3
+      }
+    },
+    {
+      "chunk_id": "chunk_0131_699cbba01fa4",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 53",
+      "clause_number": null,
+      "text": "| Components | Total Project cost | Funding Pattern |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n|  |  | Govt India | of | State Govt | SPV |\n| a. 1 Common Facility Centre | Rs 5 crore to Rs 10 crore | 80% |  | 15% | 5% |\n| a.2 Common Facility Centre | Rs 10 crore to 30 crore | 70% |  | 15% | 15% |\n| b.1 Infrastructure development- New | Rs 5 crore to Rs 15 crore | 70 % |  | 30% | --- |\n| b.2 Infrastructure development- Upgradation of existing Infrastructure | Rs 5 crore to Rs 10 crore | 60% |  | 40% | -- |",
+      "page_numbers": [
+        52
+      ],
+      "paragraph_orders": [],
+      "table_index": 53,
+      "table_shape": {
+        "row_count": 6,
+        "column_count": 6
+      }
+    },
+    {
+      "chunk_id": "chunk_0132_a2f32fc44ba5",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 54",
+      "clause_number": null,
+      "text": "| Para No. | Provisions incorporated |\n| --- | --- |\n| of the |  |\n| guidelines |  |",
+      "page_numbers": [
+        53
+      ],
+      "paragraph_orders": [],
+      "table_index": 54,
+      "table_shape": {
+        "row_count": 3,
+        "column_count": 2
+      }
+    },
+    {
+      "chunk_id": "chunk_0133_77adfbe8f1e5",
+      "source_type": "table",
+      "role": "table",
+      "document_id": "rawpdf_new_mse_cdp_guidelines_w_e_f_24_may_2022_1f62b8954207",
+      "scheme_id": "new_mse_cdp_guidelines_w_e_f_24_may_2022",
+      "section_title": "Table 55",
+      "clause_number": null,
+      "text": "| Components | Total Project cost | Funding Pattern |  |  |\n| --- | --- | --- | --- | --- |\n|  |  | Govt of India | State Govt | SPV |\n| a.1 Common Facility Centre | Rs 5 crore to Rs 10 crore | 80% | 15% | 5% |\n| a.2 Common Facility Centre | Rs 10 crore to 30 crore | 70% | 15% | 15% |\n| b. 1 Infrastructure development- New | Rs 5 crore to Rs 15 crore | 70 % | 30% | --- |\n| b.2 Infrastructure development- Upgradation of existing Infrastructure | Rs 5 crore to Rs 10 crore | 60% | 40% | -- |",
+      "page_numbers": [
+        53
+      ],
+      "paragraph_orders": [],
+      "table_index": 55,
+      "table_shape": {
+        "row_count": 6,
+        "column_count": 5
+      }
+    }
+  ]
+}

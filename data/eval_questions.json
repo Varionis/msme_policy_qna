@@ -1,0 +1,110 @@
+[
+  {
+    "id": "funding_cfc_standard",
+    "category": "funding",
+    "question": "What is the Government of India grant pattern for a Common Facility Centre with a project cost between Rs. 5 crore and Rs. 10 crore?",
+    "expected_answerable": true
+  },
+  {
+    "id": "funding_cfc_special_areas",
+    "category": "funding",
+    "question": "How does the funding pattern change for CFC projects located in NER, hill states, island territories, aspirational districts, LWE affected districts, or clusters with more than 50% micro, women-owned, or SC/ST-owned units?",
+    "expected_answerable": true
+  },
+  {
+    "id": "funding_id_new",
+    "category": "funding",
+    "question": "What is the GoI grant for setting up a new Industrial Estate or Flatted Factory Complex?",
+    "expected_answerable": true
+  },
+  {
+    "id": "funding_id_upgrade",
+    "category": "funding",
+    "question": "What funding is available for upgrading an existing Industrial Estate or Flatted Factory Complex?",
+    "expected_answerable": true
+  },
+  {
+    "id": "project_cost_above_cap",
+    "category": "exceptions",
+    "question": "Can a CFC project costing more than Rs. 30 crore be considered, and how is GoI assistance calculated?",
+    "expected_answerable": true
+  },
+  {
+    "id": "objectives",
+    "category": "eligibility",
+    "question": "What are the main objectives of the MSE-CDP scheme?",
+    "expected_answerable": true
+  },
+  {
+    "id": "implementing_agencies",
+    "category": "eligibility",
+    "question": "Who can act as implementing agencies under the scheme?",
+    "expected_answerable": true
+  },
+  {
+    "id": "spv_equity_limit",
+    "category": "eligibility",
+    "question": "Is there any limit on how much equity a single unit can hold in the SPV?",
+    "expected_answerable": true
+  },
+  {
+    "id": "sfurti_threshold",
+    "category": "exceptions",
+    "question": "What happens to projects costing up to Rs. 5 crore?",
+    "expected_answerable": true
+  },
+  {
+    "id": "rural_preference",
+    "category": "exceptions",
+    "question": "Does the scheme give any preference to rural, NER, or aspirational district projects?",
+    "expected_answerable": true
+  },
+  {
+    "id": "cfc_approval_documents",
+    "category": "procedures",
+    "question": "Which documents are required to place a CFC proposal before NPAC for final approval?",
+    "expected_answerable": true
+  },
+  {
+    "id": "id_approval_documents",
+    "category": "procedures",
+    "question": "Which documents are required for Infrastructure Development project approval?",
+    "expected_answerable": true
+  },
+  {
+    "id": "sls_scalation",
+    "category": "procedures",
+    "question": "What happens if the State Level Steering Committee does not recommend or reject a proposal within the stipulated timeline?",
+    "expected_answerable": true
+  },
+  {
+    "id": "completion_timeline",
+    "category": "procedures",
+    "question": "Within how many months must approved projects be completed?",
+    "expected_answerable": true
+  },
+  {
+    "id": "monitoring_geotagging",
+    "category": "procedures",
+    "question": "Is geo-tagging mandatory for CFC and Infrastructure Development projects?",
+    "expected_answerable": true
+  },
+  {
+    "id": "unanswerable_tax_benefits",
+    "category": "unanswerable",
+    "question": "What income tax deduction does an MSME get under this scheme?",
+    "expected_answerable": false
+  },
+  {
+    "id": "unanswerable_application_fee",
+    "category": "unanswerable",
+    "question": "What application fee must an entrepreneur pay to apply for MSE-CDP support?",
+    "expected_answerable": false
+  },
+  {
+    "id": "unanswerable_current_contact",
+    "category": "unanswerable",
+    "question": "Who is the current officer handling MSE-CDP applications in Maharashtra today?",
+    "expected_answerable": false
+  }
+]
